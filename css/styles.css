@@ -1,22 +1,22 @@
-.marquee{
+.marquee {
     display: flex;
     flex-wrap: nowrap;
     overflow: hidden;
     background-color: #FFFA9C99;
 }
 
-.marqueeContent{
+.marqueeContent {
     display: flex;
     min-width: 100%;
     flex-shrink: 0;
     animation: scroll infinite linear 20s;
 }
 
-.marquee:hover .marqueeContent{
+.marquee:hover .marqueeContent {
     animation-play-state: paused;
 }
 
-.marqueeContent > a{
+.marqueeContent>a {
     padding: 0.5rem 1rem;
     cursor: pointer;
     color: red;
@@ -24,17 +24,18 @@
     width: fit-content;
 }
 
-.marqueeContent > a:hover{
+.marqueeContent>a:hover {
     text-decoration: underline;
 }
 
 @keyframes scroll {
-   0%{
-    transform: translateX(0%);
-   } 
-   100%{
-    transform: translateX(-100%);
-   }
+    0% {
+        transform: translateX(0%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
 }
 
 .carouselContainer {
@@ -140,30 +141,32 @@
     gap: 1rem;
 }
 
-.deansMessage > h1 {
+.deansMessage>h1 {
     width: 100%;
 }
 
 .deansMessage>img {
+    align-self: stretch;
     height: 200px;
-    border-radius: 0.5rem;
 }
 
 .deansMessage>div {
+    min-width: 50%;
     font-size: 0.75rem;
     text-align: justify;
     display: flex;
     flex-direction: column;
-    padding: 1rem 0;
+    padding: 0 0 1rem 0;
 }
 
-.deansMessage h2{
+.deansMessage div h2 {
     text-align: start;
     color: var(--primary-color);
     font-size: 0.75rem;
+    margin: 0.125rem;
 }
 
-.deansMessage strong{
+.deansMessage strong {
     color: var(--primary-color);
     font-size: 0.75rem;
 }
@@ -234,7 +237,7 @@
         flex-direction: row;
     }
 
-    .collegeIntro > div>p{
+    .collegeIntro>div>p {
         flex: 1 1 50%;
     }
 
@@ -243,19 +246,22 @@
     }
 
     .deansMessage>img {
-        width: 400px;
+        flex: 0 1 auto;
+        width: 600px;
+        object-fit: cover;
         height: auto;
     }
 
-    .deansMessage > div{
+    .deansMessage>div {
+        flex: 1 1 0;
         font-size: 1rem;
     }
-    
-    .deansMessage h2{
+
+    .deansMessage div h2 {
         font-size: 1rem;
     }
-    
-    .deansMessage strong{
+
+    .deansMessage strong {
         font-size: 1rem;
     }
 }

@@ -125,24 +125,6 @@ ul {
     text-align: center;
 }
 
-.largeContentCard,
-.largeContentCard {
-    margin: 2rem 0;
-    padding: 0 1rem;
-    box-shadow: 1px 1px 2px grey;
-    border-radius: 1rem;
-    border: 2px solid var(--primary-color);
-}
-
-.largeContentCard .title,
-.largeContentCard .title {
-    margin-top: 1rem;
-}
-
-/* .largeContentCard   ul   li {
-  margin: 0.5rem 0;
-} */
-
 .contentContainer .readMoreBtn {
     text-decoration: none;
     background-color: var(--primary-color);
@@ -280,10 +262,5 @@ span {
 
     .facultyGallery .facultyCard p {
         font-size: 0.875rem;
-    }
-
-    .largeContentCard,
-    .largeContentCard {
-        padding: 1rem 2rem;
     }
 }

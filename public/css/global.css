@@ -6,26 +6,26 @@
     --light-primary-color: #982B1F;
 }
 
-body{
-    font-family: ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+body {
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
 
-.maintenanceContainer div{
+.maintenanceContainer div {
     font-size: 1rem;
     padding: 2rem;
 }
 
-.maintenanceContainer p{
+.maintenanceContainer p {
     padding: 1rem;
 }
 
-.maintenanceContainer a{
+.maintenanceContainer a {
     color: var(--primary-color);
     display: inline-block;
     text-decoration: underline;
 }
 
-a{
+a {
     display: block;
     text-decoration: none;
 }
@@ -45,7 +45,7 @@ a{
     object-fit: cover;
 }
 
-.pageBanner h1{
+.pageBanner h1 {
     text-align: center;
     font-weight: bolder;
     text-transform: uppercase;
@@ -63,7 +63,7 @@ a{
     padding: 1rem;
 }
 
-.contentContainer div h1{
+.contentContainer div h1 {
     font-size: 1rem;
     font-weight: bold;
     color: var(--primary-color);
@@ -73,20 +73,20 @@ a{
     text-transform: uppercase;
 }
 
-.contentContainer div h2{
+.contentContainer div h2 {
     font-weight: 600;
     color: var(--primary-color);
     margin-top: 1rem;
     margin-bottom: 0.5rem;
 }
 
-.contentContainer div li{
+.contentContainer div li {
     text-align: justify;
     font-size: 0.75rem;
     margin-bottom: 1rem;
 }
 
-.contentContainer div a{
+.contentContainer div a {
     text-align: justify;
     font-size: 0.75rem;
     margin: 1rem 0;
@@ -94,30 +94,49 @@ a{
     text-decoration: underline;
 }
 
-.contentContainer div p{
+.contentContainer div p {
     text-align: justify;
     font-size: 0.75rem;
     margin-bottom: 1rem;
 }
-.contentContainer div h3{
+
+.contentContainer div h3 {
     text-align: justify;
     font-size: 0.75rem;
     margin-bottom: 1rem;
     font-weight: 400;
 }
 
-@media only screen and (min-width: 768px){
-    .maintenanceContainer{
+.largeContentCard,
+.largeContentCard {
+    margin: 2rem 0;
+    padding: 0 1rem;
+    box-shadow: 1px 1px 2px grey;
+    border-radius: 1rem;
+    border: 2px solid var(--primary-color);
+}
+
+.largeContentCard .title,
+.largeContentCard .title {
+    margin-top: 1rem;
+}
+
+/* .largeContentCard   ul   li {
+  margin: 0.5rem 0;
+} */
+
+@media only screen and (min-width: 768px) {
+    .maintenanceContainer {
         width: 70%;
         margin: auto;
     }
 
-    .maintenanceContainer div{
+    .maintenanceContainer div {
         font-size: 2rem;
         padding: 4rem;
     }
 
-    .pageBanner h1{
+    .pageBanner h1 {
         padding: 8rem 0;
         font-size: 2rem;
     }
@@ -127,23 +146,29 @@ a{
         margin: 2rem auto;
     }
 
-    .contentContainer div h1{
+    .contentContainer div h1 {
         font-size: 1.5rem;
     }
 
-    .contentContainer div li{
+    .contentContainer div li {
         font-size: 1rem;
     }
 
-    .contentContainer div a{
+    .contentContainer div a {
         font-size: 1rem;
     }
 
-    .contentContainer div p{
+    .contentContainer div p {
         font-size: 1rem;
     }
-    .contentContainer div h3{
+
+    .contentContainer div h3 {
         font-size: 1.2rem;
         font-weight: 400;
+    }
+
+    .largeContentCard,
+    .largeContentCard {
+        padding: 1rem 2rem;
     }
 }
