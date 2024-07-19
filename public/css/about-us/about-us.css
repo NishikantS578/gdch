@@ -98,6 +98,14 @@ a:hover {
     display: flex;
 }
 
+.departmentsList ul li{
+    color:  var(--primary-color);
+}
+
+.about-img{
+        height: 500px;
+    }
+
 
 @media only screen and (max-width: 768px) {
 
@@ -105,6 +113,9 @@ a:hover {
     .about-us-container {
         width: 95%;
         padding: 0.5rem;
+    }
+    .about-img{
+        height: 200px;
     }
 
 }
@@ -139,7 +150,7 @@ a:hover {
 }
 
 .college-title {
-    font-size: 1.7rem;
+    /* font-size: 1.7rem; */
     font-weight: bold;
     padding: 0 1rem;
     margin-bottom: 1rem;
