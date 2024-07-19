@@ -166,14 +166,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
             </thead>
             <tbody >
               <tr>
-                <td  class="table-data">Dr Maya Indurkar</td>
+                <td  class="table-data">Dr Maya Sanjiv Indurkar</td>
                 <td  class="table-data">Professor & Dean</td>
                 <td  class="table-data">40</td>
                 <td  class="table-data">18</td>
               </tr>
               <tr>
                 <td  class="table-data">Dr C D Dhalkari</td>
-                <td  class="table-data">Professor & Dean</td>
+                <td  class="table-data">Professor & Head</td>
                 <td  class="table-data">21</td>
                 <td  class="table-data">2</td>
               </tr>
@@ -194,6 +194,13 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                 <h1>Our Faculty</h1>
             </div>
             <div class="facultyGallery">
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Maya-Indurkar/Photo.jpg" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Dr-Maya-Indurkar/Dr-Maya-Indurkar.pdf" type="application/pdf" target="_blank" >
+                        Dr. Maya Indurkar
+                    </a>
+                    <p>Professor & Dean, Dept. of Periodontology</p>
+                </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Chandulal-Dhalkari.pdf" type="application/pdf" target="_blank" >

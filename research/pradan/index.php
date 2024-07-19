@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "research/interdisciplinary-activities/";
+$CURRENTDIRURL = $ROOTURL . "research/pradan/";
 
 ?>
 
@@ -19,25 +19,28 @@ $CURRENTDIRURL = $ROOTURL . "research/interdisciplinary-activities/";
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentstyles.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/research/research.css"></link>
 </head>
 <body>
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
-
+    
     <div class="pageBanner">
         <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
         <h1>
-            INTERDISCIPLINARY ACTIVITIES
+            PRADAN <div>(Post Graduate Research and Development Activity Network)</div>
         </h1>
     </div>
     <div class="contentContainer">
         <div>
             <p>
-                Interdisciplinary activity involves integrating knowledge, methodologies & insights from multiple disciplines to address complex problem, create new understanding and innovate. We, the faculty member with the primary goal of this activity is to overcome the limitations of a single-disciplinary approach by leveraging the strengths and compensating for the weakness of various disciplines. This is specially useful for tackling complex issues 
+                PRADAN Activity is a distinctive initiative led by GDC&H in collaboration with CSMSS Dental College. This program engages PGs & staff in a wide array of scientific activities. It serves as a comprehensive platform for PhD candidates, PGs, UGs & fellowship students, offering a rich scientific experience. 
+            </p>
+            <p>
+                PRADAN provides invaluable clinical-edge concept and explores new treatment modalities & innovations across various departments.
             </p>
         </div>
-
-                
+        
         <div>
             <h1>Committee :</h1>
             <h2>Chairman :</h2>
@@ -45,6 +48,12 @@ $CURRENTDIRURL = $ROOTURL . "research/interdisciplinary-activities/";
             <h2>Members :</h2>
             <p>Dr. Jayanti Humbe</p>
             <p>Dr. Sonali Mahajan</p>
+        </div>
+
+        <div class="research-link-container">
+            <a href="<?php echo $CURRENTDIRURL ?>assets/PRADAN.pdf" target="_blank" >
+                PRADAN LIST
+            </a>
         </div>
     </div>
 

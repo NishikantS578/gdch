@@ -121,7 +121,7 @@
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>research/research-directors-message"> RESEARCH DIRECTOR'S MESSAGE </a>
-                    <a href="<?php echo $ROOTURL ?>public/assets/research/pradan/PRADAN.pdf"   target="_blank" > PRADAN </a>
+                    <a href="<?php echo $ROOTURL ?>research/pradan"> PRADAN </a>
                     <a href="<?php echo $ROOTURL ?>research/ethical-committee"> ETHICAL COMMITTEE </a>
                     <a href="<?php echo $ROOTURL ?>research/research-awards"> RESEARCH AWARDS </a>
                     <a href="<?php echo $ROOTURL ?>research/mous-collaboration"> MOU'S & COLLABORATION </a>
