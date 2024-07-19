@@ -80,15 +80,15 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
             </ul>
         </div>
 
-        <div>
+        <div class="largeContentCard">
             <h2>UG CURRICULUM</h2>
             <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/syllabus/UG program syllabus.pdf" target="_blank" type="application/pdf">syllabus</a>
+            <a style="font-weight:700;" href="<?php echo $CURRENTDIRURL ?>assets/syllabus/UG program syllabus.pdf" target="_blank" type="application/pdf">Syllabus</a>
         </div>
-        <div>
+        <div class="largeContentCard">
             <h2>PG CURRICULUM</h2>
             <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG program.pdf" target="_blank" type="application/pdf">syllabus</a>
+            <a style="font-weight:700;" href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG program.pdf" target="_blank" type="application/pdf">Syllabus</a>
         </div>
 
         <div class="largeContentCard">

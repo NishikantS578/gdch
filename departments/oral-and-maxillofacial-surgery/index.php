@@ -166,7 +166,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             </p>
         </div>
 
-        <div>
+        <div class="largeContentCard">
             <h1>
                 PATIENT SERVICES
             </h1>
@@ -203,7 +203,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                     <p>Associate Professor and Post Graduate Teacher, Dept. of Oral and Maxillofacial Surgery</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CURRENTDIRURL ?>assets/Shaikh-Ayub/Shaikh-Ayub.pdf" type="application/pdf" target="_blank" >
                         Dr. Shaikh Wahab Ayub
                     </a>
@@ -231,7 +231,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                     <p>Dental Surgeon, Dept. of Oral and Maxillofacial Surgery</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/harshmala-chavan/photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200" />
                     <a type="application/pdf" target="_blank" >
                         DR.HARSHMALA CHAVAN
                     </a>
