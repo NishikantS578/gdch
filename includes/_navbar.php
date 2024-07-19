@@ -96,9 +96,19 @@
                     <a href="<?php echo $ROOTURL ?>student-portal/equal-opportunity-cell"> EQUAL OPPORTUNITY CELL </a>
                 </div>
             </div>
-            <a href="<?php echo $ROOTURL ?>admission/NEET-PG-2024..MDS Admission Process Instruction Manual for the academic year 2024-25.pdf" type="application/pdf" target="_blank">
-                ADMISSION
-            </a>
+            <div class="dropdownContainer">
+                <div>
+                    ADMISSION
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="" height="10" width="10" />
+                </div>
+                <div class="subNavItemContainer">
+                    <a href="<?php echo $ROOTURL ?>admission/NEET-PG-2024..MDS Admission Process Instruction Manual for the academic year 2024-25.pdf" type="application/pdf" target="_blank">
+                        MDS Admission 24-25
+                    </a>
+                    
+                </div>
+            </div>
+            
             <a href="<?php echo $ROOTURL ?>alumni-association">
                 ALUMNI ASSOCIATION
             </a>

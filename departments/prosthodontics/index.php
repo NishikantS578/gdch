@@ -68,16 +68,15 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
             </P>
         </div>
 
-        <div>
+        <div class="largeContentCard">
             <h2>UG CURRICULUM</h2>
             
-            <a class="list_inside" href="<?php echo $CURRENTDIRURL ?>assets/syllabus/UG CURRICULUM.pdf" target="_blank"  type="application/pdf">syllabus</a>
-        </div>
-        <div>
+            <a style="font-weight:600;" class="list_inside" href="<?php echo $CURRENTDIRURL ?>assets/syllabus/UG CURRICULUM.pdf" target="_blank"  type="application/pdf">Syllabus</a>
+        
             <h2>PG CURRICULUM</h2>
     
-            <a class="list_inside"  href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 1.pdf" target="_blank"  type="application/pdf">PG CURRICULUM PART 1</a>
-            <a class="list_inside"  href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 2.pdf" target="_blank"  type="application/pdf">PG CURRICULUM PART 2</a>
+            <a style="font-weight:600;" class="list_inside"  href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 1.pdf" target="_blank"  type="application/pdf">PG Curriculum Part 1</a>
+            <a style="font-weight:600;" class="list_inside"  href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 2.pdf" target="_blank"  type="application/pdf">PG Curriculum Part 2</a>
         </div>
 
         <div class="largeContentCard">

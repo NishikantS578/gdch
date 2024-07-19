@@ -42,7 +42,7 @@ $CURRENTDIRURL = $ROOTURL . "about-us/about-college/";
                 
                 <hr>
                 <h2 class="dept-title">Departments</h2>
-
+                
                 <div class="departmentsList">
                     <ul>
                         <li>Oral Medicine and Radiology</li>

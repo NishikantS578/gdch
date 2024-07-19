@@ -211,7 +211,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
             </a>
         </div>
 
-        <div>
+        <div class="largeContentCard">
             <h1>
                 PATIENT SERVICES
             </h1>
