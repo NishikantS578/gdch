@@ -68,6 +68,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
             <li>
                 Maxillofacial oncology, etc
             </li>
+            <p>
                 The domain of forensic dentistry/forensic odontology, an integral part of our specialty, is experiencing remarkable growth. Its significance within the nation's criminal justice system which has escalated tenfold, emphasizing the critical need for comprehensive expertise in this subfield. It's heartening to witness a considerable number of young Oral Medicine and Radiology (OMR) specialists expressing keen interest in this area and making noteworthy contributions.
             </p>
             <p>
