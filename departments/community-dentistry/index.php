@@ -77,7 +77,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
             </ul>
         </div>
         <div class="largeContentCard">
-            <h2>UG CURRICULUM </h2>
+            <h1>UG CURRICULUM </h1>
             <p>
                 <span class="bold-solid">Lectures : </span>30 Hours. (Spread over Two Terms)
             </p>
@@ -110,9 +110,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
                 <li>School-Health programme, Dental Care for school children and preventive programme. Topical fluoride application and oral hygiene demonstrations. </li>
             </ol>
         </div>
-
-        <div class="table-container ">
-            <div class="largeContentCard">
+        <div class="largeContentCard">
                 <h1>PATIENT SERVICES </h1>
                 <li class="italic mt-4">
                     Preventive treatment like pit & Fissure sealant Application topical Fluoride application etc and comprehensive treatment procedure.
@@ -135,6 +133,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
 
                 </li>
             </div>
+
+        <div class="table-container ">
+            
 
             <h2 class="text-center" style="margin-bottom: 1.5rem;">Total Number Of Patients Covered In The Outreach Programs FROM JAN 2014 TO AUGUST 2023</h2>
 
@@ -267,16 +268,16 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
 
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Pradnya Jadhav.JPG" alt="faculty" width="200" height="200" />
-                    <h2>
+                    <a>
                         Dr. Pradnya Jadhav
-                    </h2>
+                    </a>
                     <p>Assistant Professor, Dept. of Public Health Dentistry</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Vibhakar Mote.JPG" alt="faculty" width="200" height="200" />
-                    <h2>
+                    <a>
                         Dr. Vibhakar Mote
-                    </h2>
+                    </a>
                     <p>Dental Surgeon, Dept. of Public Health Dentistry</p>
                 </div>
 

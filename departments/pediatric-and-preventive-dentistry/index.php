@@ -94,7 +94,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
         
 
         <div class="largeContentCard">
-            <h2>UG CURRICULUM</h2>
+            <h1>UG CURRICULUM</h1>
             <ul>
                 <li>
                     THEORY CLASSES :  The
@@ -166,9 +166,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
                 
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Shivani Bhadule.JPG" alt="faculty" width="200" height="200" />
-                    <h2  >
-                        Dr. Shivani Bhadule.JPG
-                    </h2>
+                    <a>
+                        Dr. Shivani Bhadule
+                    </a>
                     <p>Bonded Lecturer, Dept. of Pediatric and Preventive Dentistry</p>
                 </div>
                 

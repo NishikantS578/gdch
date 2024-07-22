@@ -105,12 +105,12 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
             </ul>
         </div>
         <div class="largeContentCard">
-            <h2>UG PROGRAMME</h2>
+            <h1>UG PROGRAMME</h2>
             <p>UG curriculum starts from Second B.D.S. with lectures and practicals of Pre-clinical Conservative Dentistry and Dental Materials. Clinical postings and Lectures are organized for Third and Final B.D.S. including their internal assessment examinations. Whereas in Internship they are groomed with Orientation Programme and Live Demonstrations of Root canal Treatment and other specialized treatments like Composite resin restorations. Faculties are continuously monitoring and supervising their daily works. At the end of the course our students are confident enough to diagnose and manage a variety of clinical situations
             </p>
         </div>
         <div class="largeContentCard">
-            <h2>PG PROGRAMME</h2>
+            <h1>PG PROGRAMME</h1>
             <p>During PG curriculum, initially in first year they are trained with OPD, discussions are held on diagnosis and treatment planning and they complete their pre-clinical work according to MUHS guidelines which is assessed. Hence onward first-, second- and third-year students perform the routine clinical treatments with special emphasis on cases like fracture fragment reattachment, regenerative procedures, teeth with aberrant morphology, bleaching procedures, surgical endodontics using all the latest equipments in the department. Seminars, journal clubs and case discussions by PG students are held twice a week in the afternoon session. They attend national conferences and PG conventions and workshops where they present the paper and win prizes at national level. Each PG student in tenure of 3 years publishes at least 6 papers in international and national journals. Their work is regularly monitored by HOD and other PG guides in the department. At the end post graduate students are capable of managing all kinds of clinical situations with their skills par excellence.
             </p>
         </div>
@@ -179,44 +179,44 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Geetam Duduskar.JPG" alt="faculty" width="200" height="200" />
-                    <h2  >
+                    <a>
                         Dr. Geetam Duduskar
-                    </h2>
+                    </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Swetha Kannamparambil.JPG" alt="faculty" width="200" height="200" />
-                    <h2  >
+                    <a>
                         Dr. Swetha Kannamparambil
-                    </h2>
+                    </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Anjali Mule.JPG" alt="faculty" width="200" height="200" />
-                    <h2  >
+                    <a>
                         Dr. Anjali Mule
-                    </h2>
+                    </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Suyog Jadhav (1).JPG" alt="faculty" width="200" height="200" />
-                    <h2  >
+                    <a>
                         Dr. Suyog Jadhav
-                    </h2>
+                    </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Aarti Pathak.JPG" alt="faculty" width="200" height="200" />
-                    <h2  >
+                    <a>
                         Dr. Aarti Pathak
-                    </h2>
+                    </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Rohini R (1).JPG" alt="faculty" width="200" height="200" />
-                    <h2  >
+                    <a>
                         Dr. Rohini R
-                    </h2>
+                    </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 
