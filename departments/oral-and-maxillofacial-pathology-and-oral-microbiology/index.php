@@ -86,7 +86,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
             <p>The undergraduate students in this department include the First Year and the Third Year
                 students for the subjects Dental Anatomy & Dental Histology, and Oral Pathology & Oral
                 Microbiology respectively.</p>
-            <h2>DENTAL ANATOMY, EMBRYOLOGY AND ORAL HISTOLOGY</h2>
+            <h2>Dental Anatomy, Embryology and Oral Histology</h2>
             <p>Dental Anatomy including Embryology and Oral Histology – a composite of basic Dental Sciences &
                 their clinical applications.</p>
             <h2>Skills</h2>
@@ -207,9 +207,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
 
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/6.  Mrs Priya Kamthe.JPG" alt="faculty" width="200" height="200" />
-                    <h2 href="" type="application/pdf" target="_blank">
+                    <a href="" type="application/pdf" target="_blank">
                         Dr. Priya Kamthe
-                    </h2>
+                    </a>
                     <p>Biochemist, Dept. of Oral Pathology</p>
                 </div>
 

@@ -80,7 +80,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
         </div>
 
         <div class="largeContentCard">
-            <h2>PATIENTS SERVICE</h2>
+            <h1>PATIENTS SERVICE</h1>
             <ol>
                 <li>Removable prosthesis
                     <ul class="list_inside">

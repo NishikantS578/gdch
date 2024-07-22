@@ -81,12 +81,12 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
         </div>
 
         <div class="largeContentCard">
-            <h2>UG CURRICULUM</h2>
+            <h1>UG CURRICULUM</h1>
             <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
             <a style="font-weight:700;" href="<?php echo $CURRENTDIRURL ?>assets/syllabus/UG program syllabus.pdf" target="_blank" type="application/pdf">Syllabus</a>
         </div>
         <div class="largeContentCard">
-            <h2>PG CURRICULUM</h2>
+            <h1>PG CURRICULUM</h1>
             <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
             <a style="font-weight:700;" href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG program.pdf" target="_blank" type="application/pdf">Syllabus</a>
         </div>
@@ -147,7 +147,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Govind-Raghunath/Dr-Govind-Raghunath.pdf" type="application/pdf" target="_blank">
                         Dr. Govind Raghunath Suryawanshi
                     </a>
-                    <p>ASSOCIATE PROFESSOR</p>
+                    <p>Associate Professor, Dept. of Orthodontics</p>
                 </div>
 
                 <div class="facultyCard">
@@ -155,7 +155,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Rakesh-Mohade/Dr-Rakesh-Mohade.pdf" type="application/pdf" target="_blank">
                         Dr. Rakesh Rai Mohode
                     </a>
-                    <p>ASSOCIATE PROFESSOR</p>
+                    <p>Associate Professor, Dept. of Orthodontics</p>
                 </div>
 
                 <div class="facultyCard">
@@ -163,7 +163,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Aboli-Muley/Dr-Aboli-Muley.pdf" type="application/pdf" target="_blank">
                         Dr. Aboli Muley
                     </a>
-                    <p>ASSISTANT PROFESSOR</p>
+                    <p>Associate Professor, Dept. of Orthodontics</p>
                 </div>
 
             </div>
