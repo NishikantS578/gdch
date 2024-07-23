@@ -9,7 +9,8 @@
     </div>
 
     <div class="bannerContainer">
-        <img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="" height="150" width="150" />
+        <a href="/"><img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="" height="150" width="150" /></a>
+        
         <div class="bannerTextContainer">
             <h1>
                 GOVERNMENT DENTAL COLLEGE &amp; HOSPITAL

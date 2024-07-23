@@ -55,14 +55,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
         </div>
 
         <div class="largeContentCard">
-            <h2>UG PROGRAMME</h2>
+            <h1>UG PROGRAMME</h1>
             <p>The department’s undergraduate dental curriculum starts in second year wherein the students are familiarized with the basics of periodontium. After imbibing the correct and strong basics regarding the anatomy and histology which remain the backbone of entire dentistry, the next goal is accomplished in the third year and that is, to develop the student’s knowledge regarding diseases of periodontium. It helps to develop treatment plans that address existing problems as well as disease prevention and health promotion (pathogenesis, intervention and prevention of the disease).</p>
             <p>
             These teaching lessons for the students are sufficed study models, pictorial charts and advanced audio-visual aids. Undergraduate students are encouraged to participate in seminars / tutorials periodically on various topics
             </p>
         </div>
         <div class="largeContentCard">
-            <h2>PG PROGRAMME</h2>
+            <h1>PG PROGRAMME</h1>
             <p>The department of Periodontics started enrolling students for postgraduate course from the year 1994 and so far 40 students have been enrolled including 9 current post postgraduate students. The training includes an exhaustive and comprehensive study of Periodontics detailed with clinical correlations and insightful study of the mechanism or pathogenesis of the disease. The students also acquire skills of non-surgical and surgical periodontal therapy. During the course of three years, students attain experience to the clinical situations and various routine and specialized treatment techniques.</p>
             <p>
             Interactive seminars and journal clubs are held every week in the seminar room equipped with audio-visual aids. The Post Graduate students are also encouraged to participate in various continuing dental education programs like interactive slide sessions conducted in various dental colleges. The Post Graduates and staff of the department participate in various state & national conferences, conventions and workshops by giving scientific presentations.
@@ -70,7 +70,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
         </div>
 
         <div class="largeContentCard">
-            <h2>PATIENTS SERVICE</h2>
+            <h1>PATIENTS SERVICE</h2>
             <ul>
                 <li>Scaling and root planning</li>
                 <li>Occlusal Therapy –Coronoplasty, Splinting</li>
@@ -104,8 +104,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
 
                 </li>
             </ul>
-        </div>
-        <div class="other-services largeContentCard">
+        
             <ul >
                 <li class="list-heading" >Miscellaneous Surgical Procedures:
                     <ol class="list_inside">

@@ -143,7 +143,7 @@ $CURRENTDIRURL = $ROOTURL . "";
             <h1>
                 DEAN'S MESSAGE
             </h1>
-            <img src="<?php echo $CURRENTDIRURL ?>assets/dean.jpg"></img>
+            <img style="border-radius:10px;" src="<?php echo $CURRENTDIRURL ?>assets/dean.jpg"></img>
             <div>
                 <p>
                     I <strong>Dr. Maya S. Indurkar</strong> welcome you to this prestigious Govt. Dental College and Hospital Chh.Sambhajinagar(Aurangabad), only Govt college in Marathwada region. This institution was established in the year 1982 by Govt. of Maharashtra. It is my great pleasure to extend a warm welcome to each and everyone of you.
