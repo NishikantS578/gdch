@@ -46,12 +46,29 @@
             </p>
             <p>
                 <a href="https://www.facebook.com/profile.php?id=100063937994949&mibextid=ZbWKwL" target="_blank">
-                    <img src="<?php echo $ROOTURL; ?>public/assets/facebookIcon.png" height="50"/>
+                    <img src="<?php echo $ROOTURL; ?>public/assets/facebookIcon.png" height="50" />
                 </a>
             </p>
+        </div>
+        <div>
+            <span>Visitor Counter</span>
+            <span class="visitorCounter">
+                <?php
+                    $file = fopen($ROOT . "con.txt", "r");
+                    $count = (int)fread($file, filesize($ROOT . "con.txt"));
+                    fclose($file);
+                    echo $count;
+                ?>
+            </span>
         </div>
     </div>
     <div class="secondaryFooter">
         © Copyright GDC&H Chhatrapati Sambhajinagar 2024. Designed and Developed by MIT Chhatrapati Sambhajinagar.
     </div>
 </div>
+
+<?php
+
+include($ROOT . "public/js/global.php")
+
+?>

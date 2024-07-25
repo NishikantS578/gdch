@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-$ROOT = "../../"; 
+$ROOT = "../../";
 include($ROOT . "includes/_init.php");
 $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
 
@@ -8,6 +8,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,18 +17,24 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/departments/departmentMain.js" defer></script>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css">
+    </link>
 </head>
+
 <body>
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" />
         <h1>
             DEPARTMENT OF PERIODONTOLOGY
         </h1>
@@ -42,7 +49,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
 
         <div class="largeContentCard">
             <h1 class="title">
-                 Mission & Vision
+                Mission & Vision
             </h1>
             <ul>
                 <li>Our vision is leadership, locally and regionally in patient care, teaching, scientific research and community services in the field of periodontology.</li>
@@ -58,186 +65,183 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
             <h1>UG PROGRAMME</h1>
             <p>The department’s undergraduate dental curriculum starts in second year wherein the students are familiarized with the basics of periodontium. After imbibing the correct and strong basics regarding the anatomy and histology which remain the backbone of entire dentistry, the next goal is accomplished in the third year and that is, to develop the student’s knowledge regarding diseases of periodontium. It helps to develop treatment plans that address existing problems as well as disease prevention and health promotion (pathogenesis, intervention and prevention of the disease).</p>
             <p>
-            These teaching lessons for the students are sufficed study models, pictorial charts and advanced audio-visual aids. Undergraduate students are encouraged to participate in seminars / tutorials periodically on various topics
+                These teaching lessons for the students are sufficed study models, pictorial charts and advanced audio-visual aids. Undergraduate students are encouraged to participate in seminars / tutorials periodically on various topics
             </p>
         </div>
         <div class="largeContentCard">
             <h1>PG PROGRAMME</h1>
             <p>The department of Periodontics started enrolling students for postgraduate course from the year 1994 and so far 40 students have been enrolled including 9 current post postgraduate students. The training includes an exhaustive and comprehensive study of Periodontics detailed with clinical correlations and insightful study of the mechanism or pathogenesis of the disease. The students also acquire skills of non-surgical and surgical periodontal therapy. During the course of three years, students attain experience to the clinical situations and various routine and specialized treatment techniques.</p>
             <p>
-            Interactive seminars and journal clubs are held every week in the seminar room equipped with audio-visual aids. The Post Graduate students are also encouraged to participate in various continuing dental education programs like interactive slide sessions conducted in various dental colleges. The Post Graduates and staff of the department participate in various state & national conferences, conventions and workshops by giving scientific presentations.
+                Interactive seminars and journal clubs are held every week in the seminar room equipped with audio-visual aids. The Post Graduate students are also encouraged to participate in various continuing dental education programs like interactive slide sessions conducted in various dental colleges. The Post Graduates and staff of the department participate in various state & national conferences, conventions and workshops by giving scientific presentations.
             </p>
         </div>
 
         <div class="largeContentCard">
             <h1>PATIENTS SERVICE</h2>
-            <ul>
-                <li>Scaling and root planning</li>
-                <li>Occlusal Therapy –Coronoplasty, Splinting</li>
-                <li>
-                Hypersensitivity treatment by Iontophoresis, laser, bonding agents
-                etc
-                </li>
-                <li>Local Drug delivery</li>
-                <li>Subgingival Curettage</li>
-                <li>Gingivectomy</li>
-                <li>Operculectomy</li>
-                <li>Various types of Flap surgeries</li>
-                <li>Osseous Resective surgeries</li>
-                <li>
-                Regenerative procedures – GTR, Bone Grafts, Root
-                Biomodification,Growth Factors
-                </li>
-                <li>Ozone therapy</li>
-                <li>Periodontal Plastic surgeries :
-                    <ol class="list_inside">
-                        <li>Frenectomy</li>
-                        <li>Frenotomy</li>
-                        <li>Vestibuloplasty</li>
-                        <li>Lateral pedicle</li>
-                        <li>Bipedical flap</li>
-                        <li>Coronally positioned flap</li>
-                        <li>Free gingival graft</li>
-                        <li>Connective tissue graft</li>
-                        <li>Subepithelial connective tissue graft</li>
-                    </ol>
+                <ul>
+                    <li>Scaling and root planning</li>
+                    <li>Occlusal Therapy –Coronoplasty, Splinting</li>
+                    <li>
+                        Hypersensitivity treatment by Iontophoresis, laser, bonding agents
+                        etc
+                    </li>
+                    <li>Local Drug delivery</li>
+                    <li>Subgingival Curettage</li>
+                    <li>Gingivectomy</li>
+                    <li>Operculectomy</li>
+                    <li>Various types of Flap surgeries</li>
+                    <li>Osseous Resective surgeries</li>
+                    <li>
+                        Regenerative procedures – GTR, Bone Grafts, Root
+                        Biomodification,Growth Factors
+                    </li>
+                    <li>Ozone therapy</li>
+                    <li>Periodontal Plastic surgeries :
+                        <ol class="list_inside">
+                            <li>Frenectomy</li>
+                            <li>Frenotomy</li>
+                            <li>Vestibuloplasty</li>
+                            <li>Lateral pedicle</li>
+                            <li>Bipedical flap</li>
+                            <li>Coronally positioned flap</li>
+                            <li>Free gingival graft</li>
+                            <li>Connective tissue graft</li>
+                            <li>Subepithelial connective tissue graft</li>
+                        </ol>
 
-                </li>
-            </ul>
-        
-            <ul >
-                <li class="list-heading" >Miscellaneous Surgical Procedures:
-                    <ol class="list_inside">
-                        <li>Abscess drainage</li>
-                        <li>Gingival depigmentation</li>
-                        <li>Epulis excisions</li>
-                        <li>Distal molar surgery</li>
-                        <li>Tunnel Preparation</li>
-                    </ol>
-                </li>
-                <li class="list-heading" >Interdisciplinary Treatment Modalities
-                    <ul class="list_inside">
-                        <li>Endodontic-Periodontic Lesions</li>
-                        <li>Hemisection & Bicuspidization</li>
-                        <li>Root Resection</li>
-                        <li>
-                            Perio-Prosthetic interrelationship
-                            <ol>
-                                <li>Crown Lengthening</li>
-                                <li>Ridge Augmentation</li>
-                            </ol>
-                        </li>
-                        <li>
-                            <span > Implant surgeries – </span> Basic
-                            and advanced Implant surgeries
-                        </li>
-                        <li>Laser Surgeries</li>
-                    </ul>
-                </li>
-            </ul>
+                    </li>
+                </ul>
+
+                <ul>
+                    <li class="list-heading">Miscellaneous Surgical Procedures:
+                        <ol class="list_inside">
+                            <li>Abscess drainage</li>
+                            <li>Gingival depigmentation</li>
+                            <li>Epulis excisions</li>
+                            <li>Distal molar surgery</li>
+                            <li>Tunnel Preparation</li>
+                        </ol>
+                    </li>
+                    <li class="list-heading">Interdisciplinary Treatment Modalities
+                        <ul class="list_inside">
+                            <li>Endodontic-Periodontic Lesions</li>
+                            <li>Hemisection & Bicuspidization</li>
+                            <li>Root Resection</li>
+                            <li>
+                                Perio-Prosthetic interrelationship
+                                <ol>
+                                    <li>Crown Lengthening</li>
+                                    <li>Ridge Augmentation</li>
+                                </ol>
+                            </li>
+                            <li>
+                                <span> Implant surgeries – </span> Basic
+                                and advanced Implant surgeries
+                            </li>
+                            <li>Laser Surgeries</li>
+                        </ul>
+                    </li>
+                </ul>
         </div>
 
 
-        <div class="table-parent">
-            <h1>
+        <div class="table-container">
+            <h2>
                 Departmental Achievements
-            </h1>
-            <table class="table-container">
-            <thead >
-              <tr class=" table-row">
-                <th
-                class="table-head"
-                  rowSpan="2"
-                >
-                  Name of teacher
-                </th>
-                <th class="table-head" rowSpan="2" >
-                  Designation
-                </th>
-                <th class="table-head" colSpan="2">
-                  Number of research papers
-                </th>
-              </tr>
-              <tr>
-                <td class="table-data" >International</td>
-                <td class="table-data" >National</td>
-              </tr>
-            </thead>
-            <tbody >
-              <tr>
-                <td  class="table-data">Dr Maya Sanjiv Indurkar</td>
-                <td  class="table-data">Professor & Dean</td>
-                <td  class="table-data">40</td>
-                <td  class="table-data">18</td>
-              </tr>
-              <tr>
-                <td  class="table-data">Dr C D Dhalkari</td>
-                <td  class="table-data">Professor & Head</td>
-                <td  class="table-data">21</td>
-                <td  class="table-data">2</td>
-              </tr>
-              <tr>
-                <td  class="table-data">Dr Ashok Bhansali</td>
-                <td  class="table-data">Associate professor</td>
-                <td  class="table-data">6</td>
-                <td  class="table-data">5</td>
-              </tr>
-            </tbody>
-          </table>
+            </h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th rowSpan="2">
+                            Name of teacher
+                        </th>
+                        <th rowSpan="2">
+                            Designation
+                        </th>
+                        <th colSpan="2">
+                            Number of research papers
+                        </th>
+                    </tr>
+                    <tr>
+                        <td>International</td>
+                        <td>National</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Dr Maya Sanjiv Indurkar</td>
+                        <td>Professor & Dean</td>
+                        <td>40</td>
+                        <td>18</td>
+                    </tr>
+                    <tr>
+                        <td>Dr C D Dhalkari</td>
+                        <td>Professor & Head</td>
+                        <td>21</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>Dr Ashok Bhansali</td>
+                        <td>Associate professor</td>
+                        <td>6</td>
+                        <td>5</td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
         <!--  -->
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
                 <h1>Our Faculty</h1>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Maya-Indurkar/Photo.jpg" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Dr-Maya-Indurkar/Dr-Maya-Indurkar.pdf" type="application/pdf" target="_blank" >
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Maya-Indurkar/Dr-Maya-Indurkar.pdf" type="application/pdf" target="_blank">
                         Dr. Maya Indurkar
                     </a>
                     <p>Professor & Dean, Dept. of Periodontology</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Chandulal-Dhalkari.pdf" type="application/pdf" target="_blank" >
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Chandulal-Dhalkari.pdf" type="application/pdf" target="_blank">
                         Dr. Chandulal Digambarrao Dhalkari
                     </a>
                     <p>Professor and Head, Dept. of Periodontology</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Ashok-Bhansali/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Ashok-Bhansali/Ashok-Bhansali.pdf" type="application/pdf" target="_blank" >
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/Ashok-Bhansali/Ashok-Bhansali.pdf" type="application/pdf" target="_blank">
                         Dr. Ashok Bhansali
                     </a>
                     <p>Associate profesor, Dept. of Periodontology</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Apurva-Dashputra/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "#">
+                    <a href="#">
                         Dr. Apurva Dashputra
                     </a>
                     <p>Assistant profesor, Dept. of Periodontology</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Soma-Sindhuja/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "#">
+                    <a href="#">
                         Dr. Soma Sindhuja K
                     </a>
                     <p>Assistant profesor, Dept. of Periodontology</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Swathy-Krishna/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "#">
+                    <a href="#">
                         Dr. Swathy Krishna J
                     </a>
                     <p>Assistant profesor, Dept. of Periodontology</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Varsha-Deokar/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "#">
+                    <a href="#">
                         Dr. Varsha Deokar
                     </a>
                     <p>Dental Surgeon, Dept. of Periodontology</p>
@@ -254,25 +258,24 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                     <p>Undergraduate Clinic</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Special Operatory for LASER & Implantology.jpg" alt="Department Image" /> 
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Special Operatory for LASER & Implantology.jpg" alt="Department Image" />
                     <p>Post Graduate Clinic</p>
                 </div>
                 <div class="galleryCard">
-                    <img
-                        src="<?php echo $CURRENTDIRURL ?>gallery/assets/Undergraduate Clinic.jpg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Undergraduate Clinic.jpg" alt="Department Image" />
                     <p>Special Operatory for LASER & Implantology</p>
                 </div>
             </div>
-            <a class="readMoreBtn"
-                href="<?php echo $CURRENTDIRURL ?>gallery">
+            <a class="readMoreBtn" href="<?php echo $CURRENTDIRURL ?>gallery">
                 View More
             </a>
         </div>
     </div>
 
 
-    
+
     <?php include($ROOT . "includes/_footer.php"); ?>
 
 </body>
+
 </html>

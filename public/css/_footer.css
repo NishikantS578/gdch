@@ -41,6 +41,10 @@
     text-decoration: underline;
 }
 
+.footerMain .visitorCounter{
+    text-align: center;
+}
+
 .secondaryFooter{
     font-size: 0.5rem;
     background-color: var(--primary-color);
