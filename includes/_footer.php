@@ -52,6 +52,7 @@
         </div>
         <div>
             <!-- Visitor Counter. Do not add anything. -->
+            <?php echo $VISITOR_COUNTER_ELEMENT ?>
         </div>
     </div>
     <div class="secondaryFooter">
