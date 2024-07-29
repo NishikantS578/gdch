@@ -50,7 +50,7 @@
                 </a>
             </p>
         </div>
-        <div>
+        <div class="visitorCounter">
             <!-- Visitor Counter. Do not add anything. -->
             <?php echo $VISITOR_COUNTER_ELEMENT ?>
         </div>
