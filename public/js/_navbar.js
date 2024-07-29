@@ -79,3 +79,17 @@ hamBurger.addEventListener("mousedown", () => {
     handleHamburgerClick(isOpen);
 });
 handleHamburgerClick((isOpen));
+
+let backToTopBtn = document.querySelector(".backToTopBtn");
+backToTopBtn.addEventListener("mousedown", function(){
+    document.documentElement.scrollTop = 0;
+});
+
+document.addEventListener("scroll", function(){
+    if(document.documentElement.scrollTop > 200){
+        backToTopBtn.style["display"] = "block";
+    }
+    else{
+        backToTopBtn.style["display"] = "none";
+    }
+});

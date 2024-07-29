@@ -31,16 +31,10 @@
 
     <div class="navbar">
         <button class="hamburger">
-            <svg
-                class="closedIcon"
-                viewBox="0 0 20 20"
-                xmlns="http://www.w3.org/2000/svg" >
+            <svg class="closedIcon" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
             </svg>
-            <svg
-                class="openedIcon"
-                viewBox="0 0 20 20"
-                xmlns="http://www.w3.org/2000/svg" >
+            <svg class="openedIcon" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                 <path d="M10 8.586L2.929 1.515 1.515 2.929 8.586 10l-7.071 7.071 1.414 1.414L10 11.414l7.071 7.071 1.414-1.414L11.414 10l7.071-7.071-1.414-1.414L10 8.586z" />
             </svg>
         </button>
@@ -54,7 +48,7 @@
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>about-us/about-college"> ABOUT COLLEGE </a>
                     <a href="<?php echo $ROOTURL ?>about-us/infrastructure"> INFRASTRUCTURE </a>
-                    
+
                     <a href="<?php echo $ROOTURL ?>about-us/college-certification"> COLLEGE CERTIFICATION </a>
                     <a href="<?php echo $ROOTURL ?>about-us/courses"> COURSES </a>
                 </div>
@@ -106,10 +100,10 @@
                     <a href="<?php echo $ROOTURL ?>admission/NEET-PG-2024..MDS Admission Process Instruction Manual for the academic year 2024-25.pdf" type="application/pdf" target="_blank">
                         MDS Admission 24-25
                     </a>
-                    
+
                 </div>
             </div>
-            
+
             <a href="<?php echo $ROOTURL ?>alumni-association">
                 ALUMNI ASSOCIATION
             </a>
@@ -147,4 +141,7 @@
             </div>
         </div>
     </div>
+</div>
+<div class="backToTopBtn">
+    <img src="<?php echo $ROOTURL ?>public/assets/up.svg">
 </div>

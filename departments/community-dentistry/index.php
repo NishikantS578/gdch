@@ -111,138 +111,134 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
             </ol>
         </div>
         <div class="largeContentCard">
-                <h1>PATIENT SERVICES </h1>
-                <li class="italic mt-4">
-                    Preventive treatment like pit & Fissure sealant Application topical Fluoride application etc and comprehensive treatment procedure.
-                </li>
-                <li class="italic mt-4">
-                    Oral health checkup and treatment camps
+            <h1>PATIENT SERVICES </h1>
+            <li class="italic mt-4">
+                Preventive treatment like pit & Fissure sealant Application topical Fluoride application etc and comprehensive treatment procedure.
+            </li>
+            <li class="italic mt-4">
+                Oral health checkup and treatment camps
 
-                </li>
-                <li class="italic mt-4">
-                    Conducting camps at central Jail, school, old age institution orphanages, villages etc.
+            </li>
+            <li class="italic mt-4">
+                Conducting camps at central Jail, school, old age institution orphanages, villages etc.
 
-                </li>
-                <li class="italic mt-4">
-                    Oral Health education in camps at various places.
+            </li>
+            <li class="italic mt-4">
+                Oral Health education in camps at various places.
 
-                </li>
-                <li class="italic mt-4">
-                    Tobacco cessation services.
+            </li>
+            <li class="italic mt-4">
+                Tobacco cessation services.
 
 
-                </li>
-            </div>
+            </li>
+        </div>
 
-        <div class="table-container ">
-            
+        <div class="table-container">
+            <h2 class="text-center">Total Number Of Patients Covered In The Outreach Programs From Jan 2014 To August 2023</h2>
 
-            <h2 class="text-center" style="margin-bottom: 1.5rem;">Total Number Of Patients Covered In The Outreach Programs FROM JAN 2014 TO AUGUST 2023</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Year</th>
+                        <th>2014</th>
+                        <th>2015</th>
+                        <th>2016</th>
+                        <th>2017</th>
+                        <th>2018</th>
+                        <th>2019</th>
+                        <th>2020</th>
+                        <th>2022</th>
+                        <th>2023</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>Dept Opd</th>
+                        <td>1618</td>
+                        <td>1555</td>
+                        <td>1150</td>
+                        <td>817</td>
+                        <td>2164</td>
+                        <td>1875</td>
+                        <td>2059</td>
+                        <td>6937</td>
+                        <td>6237</td>
+                        <td>24412</td>
+                    </tr>
 
-            <div class="table-parent">
-                <table class="table-container">
-                    <thead>
-                        <tr class=" table-row">
-                            <th class="table-head">Year</th>
-                            <th class="table-head">2014</th>
-                            <th class="table-head">2015</th>
-                            <th class="table-head">2016</th>
-                            <th class="table-head">2017</th>
-                            <th class="table-head">2018</th>
-                            <th class="table-head">2019</th>
-                            <th class="table-head">2020</th>
-                            <th class="table-head">2022</th>
-                            <th class="table-head">2023</th>
-                            <th class="table-head">Total</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr class=" table-row">
-                            <th class="table-head">Dept Opd</th>
-                            <td class="table-data">1618</td>
-                            <td class="table-data">1555</td>
-                            <td class="table-data">1150</td>
-                            <td class="table-data">817</td>
-                            <td class="table-data">2164</td>
-                            <td class="table-data">1875</td>
-                            <td class="table-data">2059</td>
-                            <td class="table-data">6937</td>
-                            <td class="table-data">6237</td>
-                            <td class="table-data">24412</td>
-                        </tr>
+                    <tr>
+                        <th>Dept Camps</th>
+                        <td>8839</td>
+                        <td>4121</td>
+                        <td>6796</td>
+                        <td>30944</td>
+                        <td>3472</td>
+                        <td>7971</td>
+                        <td>129</td>
+                        <td>3230</td>
+                        <td>1762</td>
+                        <td>67264</td>
+                    </tr>
 
-                        <tr class=" table-row">
-                            <th class="table-head">Dept Camps</th>
-                            <td class="table-data">8839</td>
-                            <td class="table-data">4121</td>
-                            <td class="table-data">6796</td>
-                            <td class="table-data">30944</td>
-                            <td class="table-data">3472</td>
-                            <td class="table-data">7971</td>
-                            <td class="table-data">129</td>
-                            <td class="table-data">3230</td>
-                            <td class="table-data">1762</td>
-                            <td class="table-data">67264</td>
-                        </tr>
+                    <tr>
+                        <th>Central Jail Camps</th>
+                        <td>--</td>
+                        <td>236</td>
+                        <td>68</td>
+                        <td>154</td>
+                        <td>176</td>
+                        <td>654</td>
+                        <td>129</td>
+                        <td>361</td>
+                        <td>152</td>
+                        <td>1930</td>
+                    </tr>
 
-                        <tr class=" table-row">
-                            <th class="table-head">Central Jail Camps</th>
-                            <td class="table-data">--</td>
-                            <td class="table-data">236</td>
-                            <td class="table-data">68</td>
-                            <td class="table-data">154</td>
-                            <td class="table-data">176</td>
-                            <td class="table-data">654</td>
-                            <td class="table-data">129</td>
-                            <td class="table-data">361</td>
-                            <td class="table-data">152</td>
-                            <td class="table-data">1930</td>
-                        </tr>
+                    <tr>
+                        <th>Mahaarogya Camp </th>
+                        <td>--</td>
+                        <td>--</td>
+                        <td>--</td>
+                        <td>6599</td>
+                        <td>21424</td>
+                        <td>2234</td>
+                        <td>--</td>
+                        <td>135</td>
+                        <td>1529</td>
+                        <td>31921</td>
+                    </tr>
 
-                        <tr class=" table-row">
-                            <th class="table-head">Mahaarogya Camp </th>
-                            <td class="table-data">--</td>
-                            <td class="table-data">--</td>
-                            <td class="table-data">--</td>
-                            <td class="table-data">6599</td>
-                            <td class="table-data">21424</td>
-                            <td class="table-data">2234</td>
-                            <td class="table-data">--</td>
-                            <td class="table-data">135</td>
-                            <td class="table-data">1529</td>
-                            <td class="table-data">31921</td>
-                        </tr>
+                    <tr>
+                        <th>Tobacco Cessation </th>
+                        <td>--</td>
+                        <td>--</td>
+                        <td>--</td>
+                        <td>--</td>
+                        <td>--</td>
+                        <td>--</td>
+                        <td>--</td>
+                        <td>1789</td>
+                        <td>652</td>
+                        <td>2441</td>
+                    </tr>
 
-                        <tr class=" table-row">
-                            <th class="table-head">Tobacco Cessation </th>
-                            <td class="table-data">--</td>
-                            <td class="table-data">--</td>
-                            <td class="table-data">--</td>
-                            <td class="table-data">--</td>
-                            <td class="table-data">--</td>
-                            <td class="table-data">--</td>
-                            <td class="table-data">--</td>
-                            <td class="table-data">1789</td>
-                            <td class="table-data">652</td>
-                            <td class="table-data">2441</td>
-                        </tr>
-
-                        <tr class=" table-row">
-                            <th class="table-head">TOTAL :</th>
-                            <td class="table-data">10457</td>
-                            <td class="table-data">5912</td>
-                            <td class="table-data">8014</td>
-                            <td class="table-data">38514</td>
-                            <td class="table-data">27236</td>
-                            <td class="table-data">12734</td>
-                            <td class="table-data">2317</td>
-                            <td class="table-data">12452</td>
-                            <td class="table-data">10332</td>
-                            <td class="table-data">127968</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
+                    <tr>
+                        <th>TOTAL :</th>
+                        <td>10457</td>
+                        <td>5912</td>
+                        <td>8014</td>
+                        <td>38514</td>
+                        <td>27236</td>
+                        <td>12734</td>
+                        <td>2317</td>
+                        <td>12452</td>
+                        <td>10332</td>
+                        <td>127968</td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
         <div class="facultyContainer marginTop">
             <div class="facultyToggleBtn">
