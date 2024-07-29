@@ -51,15 +51,7 @@
             </p>
         </div>
         <div>
-            <span>Visitor Counter</span>
-            <span class="visitorCounter">
-                <?php
-                    $file = fopen($ROOT . "con.txt", "r");
-                    $count = (int)fread($file, filesize($ROOT . "con.txt"));
-                    fclose($file);
-                    echo $count;
-                ?>
-            </span>
+            <!-- Visitor Counter. Do not add anything. -->
         </div>
     </div>
     <div class="secondaryFooter">

@@ -205,7 +205,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                     <p>Professor & Dean, Dept. of Periodontology</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Photo.jpg" alt="faculty" width="200" height="200" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Chandulal-Dhalkari.pdf" type="application/pdf" target="_blank">
                         Dr. Chandulal Digambarrao Dhalkari
                     </a>
