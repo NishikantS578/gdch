@@ -34,7 +34,7 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <div class="marquee">
         <div class="marqueeContent">
-            <a>
+            <a href="#">
                 Admissions
             </a>
             <a href="<?php echo $CURRENTDIRURL ?>public/assets/nirf-ranking.pdf" target="_blank">
