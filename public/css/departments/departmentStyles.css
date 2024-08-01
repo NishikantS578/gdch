@@ -67,7 +67,7 @@ ul {
     display: none;
 }
 
-.facultyContainer .facultyToggleBtn>h2, .facultyContainer .facultyToggleBtn>h1 {
+.facultyContainer .facultyToggleBtn>h2 {
     text-align: start;
     margin: 0;
 }

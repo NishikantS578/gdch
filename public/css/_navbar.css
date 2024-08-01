@@ -41,7 +41,7 @@
     margin: 0.25rem;
 }
 
-.bannerTextContainer>h2, .bannerTextContainer>h1 {
+.bannerTextContainer>h2 {
     /* font-size: 0.625rem; */
     font-size: 3vw;
     font-weight: bolder;
@@ -206,7 +206,7 @@
         margin: 1rem;
     }
 
-    .bannerTextContainer>h2, .bannerTextContainer>h1 {
+    .bannerTextContainer>h2 {
         /* font-size: 2rem; */
         font-size: 2vw;
         font-weight: bolder;
