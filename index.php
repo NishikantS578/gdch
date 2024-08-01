@@ -12,7 +12,7 @@ $CURRENTDIRURL = $ROOTURL . "";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Govt Dental College and Hospital, Chatrapati Sambhajinagar is one of the reputed Govt. Dental Colleges in Maharashtra. The college is popularly known as GDCH Chatrapati Sambhajinagar and was founded in the year 1982-83. The college was established to fortify the weakest section of the Nation, i.e. Rural population. It was started to serve students with the best dental care and Oral and Maxillofacial Surgery. The college is affiliated with the Maharashtra University of Health Sciences, Nashik, and is approved by the Dental Council of India, Govt. of India.">
+    <meta name="description" content="Govt Dental College and Hospital (1982-83), Chatrapati Sambhajinagar is one of the reputed Govt. Dental Colleges in Maharashtra.">
     <title>Government Dental College & Hospital Sambhajinagar</title>
     <link rel="icon" type="image/x-icon" href="<?php echo $ROOTURL ?>public/assets/gdclogo1.png">
 
