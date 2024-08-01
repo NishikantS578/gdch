@@ -45,7 +45,7 @@
                 Phone: 0240-2402383, 82, 81
             </p>
             <p>
-                <a href="https://www.facebook.com/profile.php?id=100063937994949&mibextid=ZbWKwL" target="_blank">
+                <a href="https://www.facebook.com/profile.php?id=100063937994949&mibextid=ZbWKwL" alt="Facebook Profile" target="_blank">
                     <img src="<?php echo $ROOTURL; ?>public/assets/facebookIcon.png" height="50" />
                 </a>
             </p>
