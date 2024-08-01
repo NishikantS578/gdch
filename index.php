@@ -15,6 +15,7 @@ $CURRENTDIRURL = $ROOTURL . "";
     <meta name="description" content="Govt Dental College and Hospital (1982-83), Chatrapati Sambhajinagar is one of the reputed Govt. Dental Colleges in Maharashtra.">
     <title>Government Dental College & Hospital Sambhajinagar</title>
     <link rel="icon" type="image/x-icon" href="<?php echo $ROOTURL ?>public/assets/gdclogo1.png">
+    <link rel="canonical” href="https://gdchcsn.ac.in">
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>js/main.js" defer></script>
@@ -123,10 +124,15 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <div class="contentContainer">
         <div class="collegeIntro">
-            <h2>
-                Welcome To Government Dental College and Hospital, Chhatrapati Sambhajinagar
-            </h2>
             <div>
+                <h2>
+                    Welcome To
+                </h2>
+                <h1>
+                    Government Dental College and Hospital, Chhatrapati Sambhajinagar
+                </h1>
+            </div>
+            <div class="introduction">
                 <p>
                     <strong>Govt Dental College and Hospital, Chatrapati Sambhajinagar</strong> is one of the reputed Govt. Dental Colleges in Maharashtra. The college is popularly known as GDCH Chatrapati Sambhajinagar and was founded in the year 1982-83. The college was established to fortify the weakest section of the Nation, i.e. Rural population. It was started to serve students with the best dental care and Oral and Maxillofacial Surgery. The college is affiliated with the Maharashtra University of Health Sciences, Nashik, and is approved by the Dental Council of India, Govt. of India.
                 </p>
