@@ -114,10 +114,10 @@ $CURRENTDIRURL = $ROOTURL . "";
             </div>
         </div>
         <button class="left">
-            <img src="<?php echo $CURRENTDIRURL ?>assets/left-arrow.png"></img>
+            <img src="<?php echo $CURRENTDIRURL ?>assets/left-arrow.png" alt="Left Carousel Button"></img>
         </button>
         <button class="right">
-            <img src="<?php echo $CURRENTDIRURL ?>assets/right-arrow.png"></img>
+            <img src="<?php echo $CURRENTDIRURL ?>assets/right-arrow.png" alt="Right Carousel Button"></img>
         </button>
     </div>
 
