@@ -34,7 +34,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
     </div>
     <div class="contentContainer">
         <div>
-            <h1>Introduction</h1>
+            <h2>Introduction</h2>
             <p>
                 The Department of Pediatric and Preventive Dentistry, Chhtrapaji
               Sambhajinagar was established in 1985. The department aims at the
@@ -73,9 +73,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
         </div>
 
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                  Mission & Vision
-            </h1>
+            </h2>
             <ul>
                 <li class="italic mt-4">
                     To foster the development of dentist who will brining profound
@@ -94,7 +94,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
         
 
         <div class="largeContentCard">
-            <h1>UG CURRICULUM</h1>
+            <h2>UG CURRICULUM</h2>
             <ul>
                 <li>
                     THEORY CLASSES :  The
@@ -133,9 +133,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
             </ul>
         </div>
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Patients Service
-            </h1>
+            </h2>
             <p class="italic mt-4">
                The department is well equipped with all the latest infrastructure
             which helps in the course of diagnosis and treatment planning of a
@@ -153,7 +153,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
             <div class="facultyToggleBtn">
                 <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
                 <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
-                <h1>Our Faculty</h1>
+                <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
@@ -176,7 +176,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
             </div>
         </div>
         <div>
-            <h1>Gallery</h1>
+            <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/dept-image1.jpg" alt="Department Image" />

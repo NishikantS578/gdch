@@ -31,9 +31,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/administrative-office/";
     </div>
     <div class="contentContainer">
         <div>
-            <h1>
+            <h2>
                 Administration
-            </h1>
+            </h2>
             <a href="<?php echo $CURRENTDIRURL ?>assets/administrative office.pdf" target="_blank">
                 Administration (pdf download)
             </a>

@@ -55,9 +55,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/gallery/";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 Equipments
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Diagnostic Aids.png" alt="Department Image" />
@@ -87,9 +87,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/gallery/";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 CLINICAL EXAMINATION DEMONSTRATION
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/CLINICAL EXAMINATION DEMONSTRATION1.png" alt="Department Image" />
@@ -105,9 +105,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/gallery/";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 RADIOGRAPHIC EXAMINATION
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/iopa.png" alt="Department Image" />
@@ -147,9 +147,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/gallery/";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 TOBACCO CESSATION COUNCELLING
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/TOBACCO CESSATION COUNCELLING1.png" alt="Department Image" />
@@ -165,9 +165,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/gallery/";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 CBCT TRAINING
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/CBCT TRAINING1.png" alt="Department Image" />
@@ -183,9 +183,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/gallery/";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 EVENTS
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/National oral medicine and radiology day 20241.png" alt="Department Image" />

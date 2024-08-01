@@ -34,7 +34,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
     </div>
     <div class="contentContainer">
         <div>
-            <h1>Introduction</h1>
+            <h2>Introduction</h2>
             <p>
                 The Oral Medicine and Radiology Department at Government Dental College and Hospital, Chhatrapati Sambhajinagar, comprises two primary divisions: Oral Medicine and Oral Radiology.
             </p>
@@ -92,9 +92,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
         </div>
 
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 VISION
-            </h1>
+            </h2>
             <ul>
                 <li class="italic ">
                     To achieve excellence in patient care, professional education, and research.
@@ -103,9 +103,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
         </div>
 
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 MISSION
-            </h1>
+            </h2>
             <ul>
                 <li class="italic ">
                     To deliver prompt and precise diagnoses and medical treatments using advanced techniques to patients across all societal segments.
@@ -120,12 +120,12 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
         </div>
 
         <div class="largeContentCard">
-            <h1>
-                UG CURRICULUM
-            </h1>
             <h2>
-                AIMS:
+                UG CURRICULUM
             </h2>
+            <h3>
+                AIMS:
+            </h3>
             <li>
                 To train the students to diagnose the common disorders of Orofacial region by clinical examination and with the help of such investigations as may be required and medical management of oro-facial disorders with drugs and physical agents.
             </li>
@@ -135,9 +135,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
             <li>
                 The principles of the clinical and radiographic aspects of Forensic Odontology.
             </li>
-            <h2>
+            <h3>
                 The syllabus in ORAL MEDICINE & RADIOLOGY is divided into two main parts.
-            </h2>
+            </h3>
             <p>
                 (I) Diagnosis, Diagnostic methods and Oral Medicine 
             </p>
@@ -156,9 +156,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
             <p>
                 3. Oral Medicine & Therapeutics.
             </p>
-            <h2>
+            <h3>
                 COURSE CONTENT
-            </h2>
+            </h3>
             <p>
                 (1) Emphasis should be laid on oral manifestations of systemic diseases and ill-effects of oral sepsis on general health.
             </p>
@@ -171,24 +171,24 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
         </div>
 
         <div class="largeContentCard">
-            <h1>
-                PG CURRICULUM
-            </h1>
             <h2>
-                OBJECTIVES:
+                PG CURRICULUM
             </h2>
+            <h3>
+                OBJECTIVES:
+            </h3>
             <p>
                 At the end of 3 years of training the candidate should be able to acquire adequate knowledge of the discipline.
             </p>
-            <h2>
+            <h3>
                 Knowledge:
-            </h2>
+            </h3>
             <p>
                 Theoretical, Clinical and practical knowledge of all oral mucosal lesions, skeletal involvement of maxillofacial region, diagnostic procedures pertaining to them and latest information of imaging modules.
             </p>
-            <h2>
+            <h3>
                 Skills:
-            </h2>
+            </h3>
             <p>
                 Three important skills need to be imparted in maxillofacial diseases:
             </p>
@@ -201,9 +201,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
             <p>
                 3. Clinical and Didactic skills in encouraging younger doctors to attain learning objectives
             </p>
-            <h2>
+            <h3>
                 Attitudes:
-            </h2>
+            </h3>
             <p>
                 The positive mental attitude and the persistence of continued learning need to be inculcated
             </p>
@@ -213,12 +213,12 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
         </div>
 
         <div class="largeContentCard">
-            <h1>
-                PATIENT SERVICES
-            </h1>
             <h2>
-                Oral Medicine:
+                PATIENT SERVICES
             </h2>
+            <h3>
+                Oral Medicine:
+            </h3>
             <p>
                 The services provided by the department in this regards are as follows:
             </p>
@@ -246,9 +246,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
             <li>
                 Treatment of psychosomatic disorders and neurological conditions impacting the jaws and oral cavity. 
             </li>
-            <h2>
+            <h3>
                 Oral Radiology:
-            </h2>
+            </h3>
             <p>
                 Oral Radiology specialty deals with the production and interpretations of the images and data produced by all modalities of radiant energy that are used for the diagnosis of disorders or conditions affecting the oral and maxillofacial regions. The services provided by the department in this regards are as follows:
             </p>
@@ -270,7 +270,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
             <div class="facultyToggleBtn">
                 <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
                 <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
-                <h1>STAFF DETAILS</h1>
+                <h2>STAFF DETAILS</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
@@ -322,7 +322,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
         </div>
 
         <div>
-            <h1>Gallery</h1>
+            <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/department Of Oral Medicine and Radiology Team.png" alt="Department Image" />

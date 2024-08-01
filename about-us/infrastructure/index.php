@@ -47,7 +47,7 @@ $CURRENTDIRURL = $ROOTURL . "about-us/infrastructure/";
                     <div class="facultyToggleBtn">
                         <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
                         <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
-                        <h1>Hostel Information</h1>
+                        <h2>Hostel Information</h2>
                     </div>
                     <div class="facultyGallery">
                         <img src="<?php echo $CURRENTDIRURL ?>assets/Hostel-img.png" class="Hostel-img" alt="">
@@ -72,10 +72,10 @@ $CURRENTDIRURL = $ROOTURL . "about-us/infrastructure/";
                     <div class="facultyToggleBtn">
                         <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
                         <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
-                        <h1>Library Information</h1>
+                        <h2>Library Information</h2>
                     </div>
                     <div class="facultyGallery" style="padding:0">
-                        <h1>Library Collection</h1>
+                        <h2>Library Collection</h2>
                         <h3>Govt. Dental college and Hospital A Central library for is the main
                             resource for learning. The library is the most important part of this college.
                             situated in the vast building of GDCH providing accommodation to 63 of

@@ -32,13 +32,13 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/student-info/";
     </div>
     <div class="contentContainer">
         <div>
-            <h1>BDS ADMISSIONS</h1>
+            <h2>BDS ADMISSIONS</h2>
             <a href="<?php echo $CURRENTDIRURL ?>assets/bds-admission-2023-24.pdf">
                 2023-24 (pdf download)
             </a>
         </div>
         <div>
-            <h1>BDS ELIGIBLE STUDENTS LIST</h1>
+            <h2>BDS ELIGIBLE STUDENTS LIST</h2>
             <a href="<?php echo $CURRENTDIRURL ?>assets/bds-eligible-students-list-2019-20.pdf">
                 2019-20 (pdf download)
             </a>
@@ -50,7 +50,7 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/student-info/";
             </a>
         </div>
         <div>
-            <h1>MDS ELIGIBLE STUDENTS LIST</h1>
+            <h2>MDS ELIGIBLE STUDENTS LIST</h2>
             <a href="<?php echo $CURRENTDIRURL ?>assets/mds-eligible-students-list-2021-22.pdf">
                 2021-22 (pdf download)
             </a>
@@ -59,7 +59,7 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/student-info/";
             </a>
         </div>
         <div>
-            <h1>PG ADMISSIONS</h1>
+            <h2>PG ADMISSIONS</h2>
             <a href="<?php echo $CURRENTDIRURL ?>assets/pg-admission-2023-24.pdf">
                 2023-24 (pdf download)
             </a>

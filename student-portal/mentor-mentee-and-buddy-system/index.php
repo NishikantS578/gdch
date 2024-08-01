@@ -37,7 +37,7 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/mentor-mentee-and-buddy-system/";
             </p>
         </div>
         <div>
-            <h1>mentor mentee</h1>
+            <h2>mentor mentee</h2>
             <p>
                 Mentoring is required for students to achieve emotional stability and to promote clarity in thinking and decision-making for overall programme. The mentor mentee system in our college fosters meaningful connection between the experienced staff members and newcomer undergraduate students. Each teacher is assigned around 10 students. They meet at regular intervals, approximately twice or thrice in a year, to discuss, clarify and share various problems which may be personal, domestic, academic etc. Mentors offer guidance, support, and advice to mentees, helping them navigate academic challenges, career decisions, and personal development. This helps the mentees benefit from the wisdom and expertise of their mentors which help in reduction of their stress, while mentors find fulfilment in sharing their knowledge and nurturing the growth of future leaders. The students are encouraged to utilize their full potential and are provided with feeling of safety and belonging in the institute. The mentor mentee system also helps in preventing ragging in the institute as the staff is easily accessible for personal interactions for the newcomers, which creates a fear among the undergraduate students to conduct such malpractices.
             </p>
@@ -45,7 +45,7 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/mentor-mentee-and-buddy-system/";
             <a href="<?php echo $CURRENTDIRURL ?>assets/mentor-mentee-form.pdf" target="_blank">Mentor Mentee Form (pdf download)</a>
         </div>
         <div>
-            <h1>buddy system</h1>
+            <h2>buddy system</h2>
             <p>
                 Buddy system is also implemented at college, incoming first year BDS students are paired with their immediate seniors, i.e, 2nd to 3rd year BDS students. One newcomer is allotted to each senior undergraduate student. Buddies i.e, their seniors,  offer practical advice, support, and companionship to newcomers, helping them navigate academic and social challenges. This system fosters a sense of belonging, reduces feelings of isolation, and promotes a supportive campus community where students can thrive together. As this system improves the bonding between the junior and senior students, the possibility of ragging reduces dramatically. 
             </p>

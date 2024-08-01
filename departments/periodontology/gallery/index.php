@@ -32,9 +32,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/gallery/";
     </div>
     <div class="contentContainer">
         <div>
-            <h1>
+            <h2>
                 Gallery
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Post Graduate Clinic.jpg" alt="Department Image" />

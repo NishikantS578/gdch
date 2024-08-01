@@ -108,7 +108,7 @@
     font-size: 0.75rem;
 }
 
-.contentContainer>.collegeIntro>h1 {
+.contentContainer>.collegeIntro>h2, .contentContainer>.collegeIntro {
     font-size: 1rem;
     font-weight: bold;
     font-family: serif;
@@ -141,7 +141,7 @@
     gap: 1rem;
 }
 
-.deansMessage>h1 {
+.deansMessage>h2, .deansMessage>h1 {
     width: 100%;
 }
 
@@ -159,7 +159,7 @@
     padding: 0 0 1rem 0;
 }
 
-.deansMessage div h2 {
+.deansMessage div h3 {
     text-align: start;
     color: var(--primary-color);
     font-size: 0.75rem;
@@ -181,7 +181,7 @@
     border-radius: 0.5rem;
 }
 
-.contentContainer>div>h1 {
+.contentContainer>div>h2, .contentContainer>div>h1 {
     font-size: 1rem;
     font-weight: bold;
     color: var(--primary-color);
@@ -220,7 +220,7 @@
         margin: 2rem auto;
     }
 
-    .contentContainer>div>h1 {
+    .contentContainer>div>h2, .contentContainer>div>h1 {
         font-size: 1.5rem;
     }
 
@@ -228,7 +228,7 @@
         font-size: 1rem;
     }
 
-    .contentContainer>.collegeIntro>h1 {
+    .contentContainer>.collegeIntro>h2, .contentContainer>.collegeIntro>h1 {
         font-size: 1.5rem;
         text-align: center;
     }
@@ -258,7 +258,7 @@
         font-size: 1rem;
     }
 
-    .deansMessage div h2 {
+    .deansMessage div h3 {
         font-size: 1rem;
     }
 

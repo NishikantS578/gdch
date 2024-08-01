@@ -41,16 +41,16 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
     </div>
     <div class="contentContainer">
         <div>
-            <h1>Introduction</h1>
+            <h2>Introduction</h2>
             <p>
                 Periodontics is a specialty of dentistry which encompasses prevention, diagnosis and treatment of diseases of the supporting tissues of the teeth. Apart from routine oral hygiene maintenance which form the scope of Periodontics are treatment of Periodontitis, Depigmentation of oral tissues, Laser surgeries, Reattachment procedures, Gingivoplasty, Implant surgeries etc.
             </p>
         </div>
 
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Mission & Vision
-            </h1>
+            </h2>
             <ul>
                 <li>Our vision is leadership, locally and regionally in patient care, teaching, scientific research and community services in the field of periodontology.</li>
                 <li>Our mission is to seek excellence in education through innovation, applied technology and by creating atmosphere for learning and personal career development.</li>
@@ -62,14 +62,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
         </div>
 
         <div class="largeContentCard">
-            <h1>UG PROGRAMME</h1>
+            <h2>UG PROGRAMME</h2>
             <p>The department’s undergraduate dental curriculum starts in second year wherein the students are familiarized with the basics of periodontium. After imbibing the correct and strong basics regarding the anatomy and histology which remain the backbone of entire dentistry, the next goal is accomplished in the third year and that is, to develop the student’s knowledge regarding diseases of periodontium. It helps to develop treatment plans that address existing problems as well as disease prevention and health promotion (pathogenesis, intervention and prevention of the disease).</p>
             <p>
                 These teaching lessons for the students are sufficed study models, pictorial charts and advanced audio-visual aids. Undergraduate students are encouraged to participate in seminars / tutorials periodically on various topics
             </p>
         </div>
         <div class="largeContentCard">
-            <h1>PG PROGRAMME</h1>
+            <h2>PG PROGRAMME</h2>
             <p>The department of Periodontics started enrolling students for postgraduate course from the year 1994 and so far 40 students have been enrolled including 9 current post postgraduate students. The training includes an exhaustive and comprehensive study of Periodontics detailed with clinical correlations and insightful study of the mechanism or pathogenesis of the disease. The students also acquire skills of non-surgical and surgical periodontal therapy. During the course of three years, students attain experience to the clinical situations and various routine and specialized treatment techniques.</p>
             <p>
                 Interactive seminars and journal clubs are held every week in the seminar room equipped with audio-visual aids. The Post Graduate students are also encouraged to participate in various continuing dental education programs like interactive slide sessions conducted in various dental colleges. The Post Graduates and staff of the department participate in various state & national conferences, conventions and workshops by giving scientific presentations.
@@ -77,7 +77,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
         </div>
 
         <div class="largeContentCard">
-            <h1>PATIENTS SERVICE</h2>
+            <h2>PATIENTS SERVICE</h2>
                 <ul>
                     <li>Scaling and root planning</li>
                     <li>Occlusal Therapy –Coronoplasty, Splinting</li>
@@ -146,9 +146,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
 
 
         <div class="table-container">
-            <h2>
+            <h3>
                 Departmental Achievements
-            </h2>
+            </h3>
             <table>
                 <thead>
                     <tr>
@@ -194,7 +194,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
             <div class="facultyToggleBtn">
                 <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
                 <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
-                <h1>Our Faculty</h1>
+                <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
@@ -251,7 +251,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
         <!--  -->
 
         <div>
-            <h1>Gallery</h1>
+            <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Post Graduate Clinic.jpg" alt="Department Image" />

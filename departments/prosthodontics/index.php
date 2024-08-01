@@ -35,7 +35,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
 
     <div class="contentContainer">
         <div>
-            <h1>Introduction</h1>
+            <h2>Introduction</h2>
             <p>
                 This is the 1st branch of dentistry. This is a vast department with four branches in it viz.., Removable prosthodontics , Fixed prosthodontics ,Maxillofacial prosthodontics and Implants. Daily 80-85 patients are treated for complete dentures, removable and fixed partial dentures. Around 35-40 Implants are placed every month and 10-15 maxillofacial prosthesis are delivered.
             </p>
@@ -45,9 +45,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
         </div>
 
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Vision
-            </h1>
+            </h2>
             <p>
                Department of Prosthodontics aims at imparting the dental students with the ability to provide excellent treatment, effectively and efficiently with knowledge and skill along with maintaining high ethical standards, empathy, and care while handling any patient needing prosthodontic rehabilitation. 
             </p>
@@ -57,9 +57,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
         </div>
 
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Mission
-            </h1>
+            </h2>
             <p>
                Our mission is to equip our students with sound clinical knowledge and skill to develop individual into dentists who are not only professionally trained, but also high in moral and ethical values, imparting profound integrity character to every endeavour, not only in our institution but in the society at large.  
             </p>
@@ -69,18 +69,18 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
         </div>
 
         <div class="largeContentCard">
-            <h2>UG CURRICULUM</h2>
+            <h3>UG CURRICULUM</h3>
             
             <a style="font-weight:600;" class="list_inside" href="<?php echo $CURRENTDIRURL ?>assets/syllabus/UG CURRICULUM.pdf" target="_blank"  type="application/pdf">Syllabus</a>
         
-            <h2>PG CURRICULUM</h2>
+            <h3>PG CURRICULUM</h3>
     
             <a style="font-weight:600;" class="list_inside"  href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 1.pdf" target="_blank"  type="application/pdf">PG Curriculum Part 1</a>
             <a style="font-weight:600;" class="list_inside"  href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 2.pdf" target="_blank"  type="application/pdf">PG Curriculum Part 2</a>
         </div>
 
         <div class="largeContentCard">
-            <h1>PATIENTS SERVICE</h1>
+            <h2>PATIENTS SERVICE</h2>
             <ol>
                 <li>Removable prosthesis
                     <ul class="list_inside">
@@ -111,7 +111,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
             <div class="facultyToggleBtn">
                 <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
                 <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
-                <h1>Our Faculty</h1>
+                <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">

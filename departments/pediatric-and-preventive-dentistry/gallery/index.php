@@ -32,7 +32,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/gall
     </div>
     <div class="contentContainer">
         <div>
-            <h1>Gallery</h1>
+            <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/dept-image1.jpg" alt="Department Image" />

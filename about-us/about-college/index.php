@@ -35,14 +35,14 @@ $CURRENTDIRURL = $ROOTURL . "about-us/about-college/";
     <div>
         <div class="main">
             <div class="about-us-container">
-                <h2 class="college-title">Government Dental College & Hospital Chhatrapati Sambhajinagar</h2>
+                <h3 class="college-title">Government Dental College & Hospital Chhatrapati Sambhajinagar</h3>
                 <img class="about-img" src="<?php echo $ROOTURL ?>assets/Carousel8.jpg" alt="" style="border-radius:10px; width:95%;"  height="500"></img>
                 <p class="college-desc">
                     Govt Dental College and Hospital, Chatrapati Sambhajinagar is one of the reputed Govt. Dental Colleges in Maharashtra. The college is popularly known as GDCH Chatrapati Sambhajinagar and was founded in the year 1982-83. The college was established to fortify the weakest section of the Nation, i.e. Rural population. It was started to serve students with the best dental care and Oral and Maxillofacial Surgery. The college is affiliated with the Maharashtra University of Health Sciences, Nashik, and is approved by the Dental Council of India, Govt. of India.
                 </p>
                 
                 
-                <h2 class="dept-title">Departments</h2>
+                <h3 class="dept-title">Departments</h3>
                 
                 <div class="departmentsList">
                     <ul>

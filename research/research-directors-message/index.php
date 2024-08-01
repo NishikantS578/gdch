@@ -38,10 +38,10 @@ $CURRENTDIRURL = $ROOTURL . "research/research-directors-message/";
         </div>
 
         <div>
-            <h1>Research Committee :</h1>
-            <h2>Chairman :</h2>
+            <h2>Research Committee :</h2>
+            <h3>Chairman :</h3>
             <p>Dr. Seema D Pathak</p>
-            <h2>Members :</h2>
+            <h3>Members :</h3>
             <p>Dr. Jayanti Humbe</p>
             <p>Dr. Sonali Mahajan</p>
         </div>

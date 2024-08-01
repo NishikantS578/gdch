@@ -32,9 +32,9 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/anti-ragging/";
     </div>
     <div class="contentContainer">
         <div>
-            <h1>
+            <h2>
                 INTRODUCTION
-            </h1>
+            </h2>
             <p>
                 Ragging in India is damaging form of interaction of the seniors in college or school with the juniors, newcomers or first years.
             </p>
@@ -44,9 +44,9 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/anti-ragging/";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 Maharashtra Prohibition of Ragging Act, 1999:
-            </h1>
+            </h2>
             <p>
                 In 1999, the Government of Maharashtra enacted the Maharashtra Prohibition of Ragging Act, 1999 to prohibit ragging which, it defines as the:
                     "Display of disorderly conduct, doing of any act which cause physical or psychological harm or raise apprehension or fear or shame or embarrassment to a student in any educational institution and includes - 1. teasing, abusing, threatening or playing practical jokes on, or causing hurt to, a student, or 2. asking a student to do any act or perform something which the student will not willingly do in ordinary course."
@@ -54,9 +54,9 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/anti-ragging/";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 VARIOUS FORMS OF RAGGING
-            </h1>
+            </h2>
             <li>
                 Academic performance: The seniors may attempt to harass or threaten the junior to complete their assignments, bunk classes, not to take part in any college activity.
             </li>
@@ -78,9 +78,9 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/anti-ragging/";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 THE PSYCHOLOGY BEHIND RAGGING:
-            </h1>
+            </h2>
             <li>
                 Discrimination based on cast, region, language, class, etc. plays a vital role in influencing it, especially in small cities and towns.
             </li>
@@ -129,9 +129,9 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/anti-ragging/";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 ANTI-RAGGING HELPLINE:
-            </h1>
+            </h2>
             <p>
                 Following supreme court orders, a National Anti-Ragging Helpline was launched by the Indian Government in june 2009 to help the victims and take action in cases of ragging, by informing the head of the institution and the local police authorities of the ragging complaint from the college.
             </p>

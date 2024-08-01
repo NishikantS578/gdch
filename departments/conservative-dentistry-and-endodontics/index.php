@@ -34,7 +34,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
     </div>
     <div class="contentContainer">
         <div>
-            <h1>Introduction</h1>
+            <h2>Introduction</h2>
             <p>
                 The department of Conservative Dentistry was established in the year 1982 and aims at preserving the natural tooth either by simple filling or by root canal therapy, which otherwise would have been extracted, thus making them functional for a lifetime. It is one of the most frequently visited departments by the patients coming to Govt. Dental College and Hospital, Chhatrapati Sambhajinagar.
             </p>
@@ -49,9 +49,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
             </p>
         </div>
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Vision
-            </h1>
+            </h2>
             <ul>            
                 <li class="italic mt-4">
                     The Department of Conservative Dentistry and Endodontics encompasses the specialities of operative dentistry, endodontics, and dental material sciences.
@@ -74,9 +74,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
             </ul>
         </div>
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Mission
-            </h1>
+            </h2>
             <ul> 
                 <li class="italic mt-4">
                     To support the vision, mission, core values and goals of the institution through teaching, service, patient care and research.
@@ -105,19 +105,19 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
             </ul>
         </div>
         <div class="largeContentCard">
-            <h1>UG PROGRAMME</h2>
+            <h2>UG PROGRAMME</h2>
             <p>UG curriculum starts from Second B.D.S. with lectures and practicals of Pre-clinical Conservative Dentistry and Dental Materials. Clinical postings and Lectures are organized for Third and Final B.D.S. including their internal assessment examinations. Whereas in Internship they are groomed with Orientation Programme and Live Demonstrations of Root canal Treatment and other specialized treatments like Composite resin restorations. Faculties are continuously monitoring and supervising their daily works. At the end of the course our students are confident enough to diagnose and manage a variety of clinical situations
             </p>
         </div>
         <div class="largeContentCard">
-            <h1>PG PROGRAMME</h1>
+            <h2>PG PROGRAMME</h2>
             <p>During PG curriculum, initially in first year they are trained with OPD, discussions are held on diagnosis and treatment planning and they complete their pre-clinical work according to MUHS guidelines which is assessed. Hence onward first-, second- and third-year students perform the routine clinical treatments with special emphasis on cases like fracture fragment reattachment, regenerative procedures, teeth with aberrant morphology, bleaching procedures, surgical endodontics using all the latest equipments in the department. Seminars, journal clubs and case discussions by PG students are held twice a week in the afternoon session. They attend national conferences and PG conventions and workshops where they present the paper and win prizes at national level. Each PG student in tenure of 3 years publishes at least 6 papers in international and national journals. Their work is regularly monitored by HOD and other PG guides in the department. At the end post graduate students are capable of managing all kinds of clinical situations with their skills par excellence.
             </p>
         </div>
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                  Patient Services
-            </h1>
+            </h2>
             <ul>
                 <li class="italic ">
                  Silver Amalgam and Tooth colored restorations.
@@ -146,7 +146,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
             <div class="facultyToggleBtn">
                 <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
                 <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
-                <h1>Our Faculty</h1>
+                <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
@@ -224,7 +224,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
             </div>
         </div>
         <div>
-            <h1>Gallery</h1>
+            <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/departmentBoard.png" alt="Department Image" />

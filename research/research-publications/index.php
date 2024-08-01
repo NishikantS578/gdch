@@ -31,7 +31,7 @@ $CURRENTDIRURL = $ROOTURL . "research/research-publications/";
     </div>
     <div class="contentContainer">
         <div>
-            <h1>Copyrights, Patents and Scientific Publications</h1>
+            <h2>Copyrights, Patents and Scientific Publications</h2>
             <p>
                 The college is updated with recent technologies and has an excellent supervision which has awarded the college a total of 30 copyrights, 2 patents and overall 85 publications including National and International index journals in the year of 2023-2024 in various subjects.
 

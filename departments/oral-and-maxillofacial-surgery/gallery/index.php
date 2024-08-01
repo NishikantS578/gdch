@@ -61,9 +61,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/gallery/
         </div>
 
         <div>
-            <h1>
+            <h2>
                 MINOR SURGICAL PROCEDURES ALVEOLOPLASTY , DISIMPACTION, BIOPSY , ENUCLEATION & CURRETTAGE
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/MINOR SURGICAL PROCEDURES1.png" alt="Department Image" />
@@ -84,9 +84,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/gallery/
         </div>
 
         <div>
-            <h1>
+            <h2>
                 INSTRUMENTS
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/INSTRUMENTS1.png" alt="Department Image" />
@@ -112,9 +112,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/gallery/
         </div>
 
         <div>
-            <h1>
+            <h2>
                 MAJOR OPERATION THEATRE :- TRAUMA CARE & CARCINOMA
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/MAJOR OPERATION THEATRE1.png" alt="Department Image" />

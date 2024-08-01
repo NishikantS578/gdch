@@ -41,7 +41,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
     </div>
     <div class="contentContainer">
         <div>
-            <h1>Introduction</h1>
+            <h2>Introduction</h2>
             <p>
                 Oral pathology is at the confluence of basic sciences and clinical
                 dentistry. It deals with nature, identification and management of
@@ -57,9 +57,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
 
         </div>
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Mission & Vision
-            </h1>
+            </h2>
             <ul>
                 <li class="italic mt-4">
                     To bring up the professionals with highest cognitive, affective
@@ -82,20 +82,20 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
         </div>
 
         <div class="largeContentCard">
-            <h1>UG CURRICULUM</h1>
+            <h2>UG CURRICULUM</h2>
             <p>The undergraduate students in this department include the First Year and the Third Year
                 students for the subjects Dental Anatomy & Dental Histology, and Oral Pathology & Oral
                 Microbiology respectively.</p>
-            <h2>Dental Anatomy, Embryology and Oral Histology</h2>
+            <h3>Dental Anatomy, Embryology and Oral Histology</h3>
             <p>Dental Anatomy including Embryology and Oral Histology – a composite of basic Dental Sciences &
                 their clinical applications.</p>
-            <h2>Skills</h2>
+            <h3>Skills</h3>
             <p>The student should acquire basic skills in :</p>
             <p>1. Carving of crowns of permanent teeth in wax.</p>
             <p>2. Microscopic study of Oral tissues.</p>
             <p>3. Identification of Deciduous & Permanent teeth.</p>
             <p>4. Age estimation by patterns of teeth eruption from plaster casts of different age groups.</p>
-            <h2>Objectives </h2>
+            <h3>Objectives </h3>
             <p>1. The student is expected to appreciate the normal development, morphology, structure & functions of oral
                 tissues & variations in different pathological/non-pathological states.</p>
             <p>2. The student should understand the histological basis of various dental treatment procedures and
@@ -107,10 +107,10 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
         </div>
 
         <div class="largeContentCard">
-            <h1>PG CURRICULUM</h1>
-            <h2>
+            <h2>PG CURRICULUM</h2>
+            <h3>
                 GOALS
-            </h2>
+            </h3>
             <p>
                 The goals of the post-graduate training in various specialities is to train the graduate in Dental Surgery who will,
             </p>
@@ -129,9 +129,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
             <p>
                 (v) to develop the faculty for critical analysis and evaluation of various concepts and views and to adopt the most rational approach.
             </p>
-            <h2>
+            <h3>
                 OBJECTIVES:
-            </h2>
+            </h3>
             <li>
                 To train a post graduate dental surgeon so as to ensure higher competence in both general and special pathology dealing with the nature of oral diseases, their causes, processes and effects.
             </li>
@@ -150,12 +150,12 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
         </div>
 
         <div class="largeContentCard">
-            <h1>Patient services</h1>
-            <h2>1. Clinical Services</h2>
-            <h2>2. Haematology Services</h2>
-            <h2>3. Cytology</h2>
-            <h2>5. Histopathology Services</h2>
-            <h2>6. Forensic Odontology</h2>
+            <h2>Patient services</h2>
+            <h3>1. Clinical Services</h3>
+            <h3>2. Haematology Services</h3>
+            <h3>3. Cytology</h3>
+            <h3>5. Histopathology Services</h3>
+            <h3>6. Forensic Odontology</h3>
             <a href="<?php echo $CURRENTDIRURL ?>assets/patient-services.pdf" target="_blank">
                 PATIENT SERVICES Complete (pdf download)
             </a>
@@ -165,7 +165,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
             <div class="facultyToggleBtn">
                 <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
                 <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
-                <h1>Our Faculty</h1>
+                <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
@@ -218,7 +218,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
         </div>
 
         <div>
-            <h1>Gallery</h1>
+            <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Department of Oral Pathology and Microbiology.jpg" alt="Department Image" />

@@ -41,7 +41,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
     </div>
     <div class="contentContainer">
         <div>
-            <h1>Introduction</h1>
+            <h2>Introduction</h2>
             <p>
                 Welcome to the Department of Orthodontics and Dentofacial Orthopedics, where healthy and beautiful smiles are created. Orthodontics deals with straightening teeth and making them more aesthetic. It has high impact on a way person looks and boosts their self-esteem.
             </p>
@@ -51,9 +51,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
         </div>
 
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Vision
-            </h1>
+            </h2>
             <p class="italic mt-4">
                 To become centre of excellence at par with global standards, through patient-centred education, state of the art orthodontic technology and advanced research.
             </p>
@@ -61,9 +61,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
         </div>
 
         <div class=" largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Mission
-            </h1>
+            </h2>
             <ul>
                 <li class="italic mt-4">
                     To provide highest quality of orthodontic treatment and patient care to all sections of the society, led by a team of committed professionals equipped with the finest skills and competency
@@ -81,18 +81,18 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
         </div>
 
         <div class="largeContentCard">
-            <h1>UG CURRICULUM</h1>
+            <h2>UG CURRICULUM</h2>
             <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
             <a style="font-weight:700;" href="<?php echo $CURRENTDIRURL ?>assets/syllabus/UG program syllabus.pdf" target="_blank" type="application/pdf">Syllabus</a>
         </div>
         <div class="largeContentCard">
-            <h1>PG CURRICULUM</h1>
+            <h2>PG CURRICULUM</h2>
             <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
             <a style="font-weight:700;" href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG program.pdf" target="_blank" type="application/pdf">Syllabus</a>
         </div>
 
         <div class="largeContentCard">
-            <h1>FUTURE ASPECTS</h1>
+            <h2>FUTURE ASPECTS</h2>
             <ul>
                 <li>Preclinical virtual skill development using case based and simulation based learning.</li>
                 <li>Three-dimensional virtual skill development in the terms of diagnosis, treatment planning and mechanics using latest orthodontic technology such as CAD CAM, 3D printing, digital scans, stereolithography and various softwares.</li>
@@ -111,7 +111,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
         </div>
 
         <div class="largeContentCard">
-            <h1>CORE COMPETENCIES</h1>
+            <h2>CORE COMPETENCIES</h2>
             <ul>
                 <li>Preventive and Interceptive treatment</li>
                 <li>Removable appliances</li>
@@ -130,7 +130,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
             <div class="facultyToggleBtn">
                 <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
                 <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
-                <h1>Our Faculty</h1>
+                <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
 
@@ -170,7 +170,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
         </div>
 
         <div>
-            <h1>Gallery</h1>
+            <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-1.jpeg" alt="Department Image" />

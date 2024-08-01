@@ -135,9 +135,9 @@ $CURRENTDIRURL = $ROOTURL . "";
         </div>
 
         <div class="deansMessage largeContentCard">
-            <h1>
+            <h2>
                 DEAN'S MESSAGE
-            </h1>
+            </h2>
             <img style="border-radius:10px;" src="<?php echo $CURRENTDIRURL ?>assets/dean.jpg" alt="Dean's Photo"></img>
             <div>
                 <p>
@@ -155,26 +155,26 @@ $CURRENTDIRURL = $ROOTURL . "";
                 <p className="text-justify mb-4">
                     I encourage you to explore our website and learn more about the exciting opportunities and resources we offer. Whether you are a prospective student, a current member of our community, or a visitor interested in our work, I am confident you will find something inspiring here.
                 </p>
-                <h2 className="font-semibold">
+                <h3 className="font-semibold">
                     Regards
-                </h2>
-                <h2 className="font-semibold">
+                </h3>
+                <h3 className="font-semibold">
                     Dr.(Mrs). Maya S. Indurkar
-                </h2>
-                <h2 className="font-semibold">
+                </h3>
+                <h3 className="font-semibold">
                     Dean, Professor Periodontology and Implantology
-                </h2>
-                <h2 className="font-semibold">
+                </h3>
+                <h3 className="font-semibold">
                     Govt Dental College Chh.Sambhajinagar(Aurangabad)
-                </h2>
+                </h3>
             </div>
         </div>
 
         <!--
         <div>
-            <h1>
+            <h2>
                 Departments
-            </h1>
+            </h2>
         </div>
 
         <div>
@@ -183,27 +183,27 @@ $CURRENTDIRURL = $ROOTURL . "";
         </div>
 
         <div>
-            <h1>
+            <h2>
                 Quotes
-            </h1>
+            </h2>
         </div>
 
         <div>
-            <h1>
+            <h2>
                 Downloads
-            </h1>
+            </h2>
         </div>
 
         <div>
-            <h1>
+            <h2>
                 Certification and Award
-            </h1>
+            </h2>
         </div>
 
         <div>
-            <h1>
+            <h2>
                 News
-            </h1>
+            </h2>
         </div>
                 -->
 

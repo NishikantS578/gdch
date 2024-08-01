@@ -41,16 +41,16 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
     </div>
     <div class="contentContainer">
         <div>
-            <h1>Introduction</h1>
+            <h2>Introduction</h2>
             <p>
                 Public Health Dentistry deals with Preventing & Controlling Dental Diseases and promoting dental health through community efforts promoting oral Health and preventing oral diseases in the community through educating, motivating and intervening the diseases at the earliest stages specially more emphasis on preventing and controlling tobacco habits and prevention of oral cancer .
             </p>
         </div>
 
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Vision
-            </h1>
+            </h2>
             <ul>
                 <li class="italic mt-4">
                     To educate each & every patient and public visiting to the Government Dental College & Hospital about preventing dental diseases and promoting oral health
@@ -67,9 +67,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
             </ul>
         </div>
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Mission
-            </h1>
+            </h2>
             <ul>
                 <li class="italic mt-4">
                     Preventing oral diseases and promoting oral health of the community through motivation education & intervening disease with special emphasis on preventing & controlling tobacco habits & incidence of oral cancer among the public.
@@ -77,7 +77,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
             </ul>
         </div>
         <div class="largeContentCard">
-            <h1>UG CURRICULUM </h1>
+            <h2>UG CURRICULUM </h2>
             <p>
                 <span class="bold-solid">Lectures : </span>30 Hours. (Spread over Two Terms)
             </p>
@@ -104,14 +104,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
             </ol>
             </p>
 
-            <h2>FIELD PROGRAMME : </h2>
+            <h3>FIELD PROGRAMME : </h3>
             <ol class="list_inside">
                 <li>In rural areas to conduct survey of Dental diseases. Provide Dental Health Education, emergency treatment.</li>
                 <li>School-Health programme, Dental Care for school children and preventive programme. Topical fluoride application and oral hygiene demonstrations. </li>
             </ol>
         </div>
         <div class="largeContentCard">
-            <h1>PATIENT SERVICES </h1>
+            <h2>PATIENT SERVICES </h2>
             <li class="italic mt-4">
                 Preventive treatment like pit & Fissure sealant Application topical Fluoride application etc and comprehensive treatment procedure.
             </li>
@@ -135,7 +135,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
         </div>
 
         <div class="table-container">
-            <h2 class="text-center">Total Number Of Patients Covered In The Outreach Programs From Jan 2014 To August 2023</h2>
+            <h3 class="text-center">Total Number Of Patients Covered In The Outreach Programs From Jan 2014 To August 2023</h3>
 
             <table>
                 <thead>
@@ -244,7 +244,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
             <div class="facultyToggleBtn">
                 <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
                 <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
-                <h1>Our Faculty</h1>
+                <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
@@ -281,7 +281,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
             </div>
         </div>
         <div>
-            <h1>Gallery</h1>
+            <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_8893.JPG" alt="Department Image" />

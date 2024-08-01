@@ -12,18 +12,18 @@
         <a href="/"><img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="logo" height="150" width="150" /></a>
         
         <div class="bannerTextContainer">
-            <h1>
+            <h2>
                 GOVERNMENT DENTAL COLLEGE &amp; HOSPITAL
-            </h1>
-            <h1>
-                CHHATRAPATI SAMBHAJINAGAR
-            </h1>
-            <h2 class="subText">
-                Affiliated to Maharashtra University of Health Sciences
             </h2>
             <h2>
-                Recognized by Dental Council of India, New Delhi
+                CHHATRAPATI SAMBHAJINAGAR
             </h2>
+            <h3 class="subText">
+                Affiliated to Maharashtra University of Health Sciences
+            </h3>
+            <h3>
+                Recognized by Dental Council of India, New Delhi
+            </h3>
         </div>
         <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraLogo.png" class="logo" alt="Government Of Maharashtra Logo" height="150" width="150" />
         <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraEmblem.png" class="logo extra" alt="Government Of Maharashtra Emblem" height="150" width="100" />

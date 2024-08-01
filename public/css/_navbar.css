@@ -41,13 +41,13 @@
     margin: 0.25rem;
 }
 
-.bannerTextContainer>h1 {
+.bannerTextContainer>h2, .bannerTextContainer>h1 {
     /* font-size: 0.625rem; */
     font-size: 3vw;
     font-weight: bolder;
 }
 
-.bannerTextContainer>h2 {
+.bannerTextContainer>h3 {
     /* font-size: 0.5rem; */
     font-size: 2vw;
     font-weight: bolder;
@@ -206,13 +206,13 @@
         margin: 1rem;
     }
 
-    .bannerTextContainer>h1 {
+    .bannerTextContainer>h2, .bannerTextContainer>h1 {
         /* font-size: 2rem; */
         font-size: 2vw;
         font-weight: bolder;
     }
 
-    .bannerTextContainer>h2 {
+    .bannerTextContainer>h3 {
         /* font-size: 1.25rem; */
         font-size: 1vw;
         font-weight: bolder;

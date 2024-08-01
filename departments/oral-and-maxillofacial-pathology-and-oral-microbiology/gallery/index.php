@@ -57,9 +57,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
         </div>
 
         <div>
-            <h1>
+            <h2>
                 Training and Screening Camps
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps1.png" alt="Department Image" />
@@ -125,9 +125,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
         </div>
 
         <div>
-            <h1>
+            <h2>
                 ACHIEVEMENTS
-            </h1>
+            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/MUHS University Gold Medallist 2023.jpg" alt="Department Image" />

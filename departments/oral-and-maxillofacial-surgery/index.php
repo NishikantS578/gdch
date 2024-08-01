@@ -34,15 +34,15 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
     </div>
     <div class="contentContainer">
         <div>
-            <h1>Introduction</h1>
+            <h2>Introduction</h2>
             <p>
                 The department has two sections:
                 Undergraduate Clinic- Room no. 123
                 Post-graduate Clinic- Room no.100
             </p>
-            <h2>
+            <h3>
                 UG Clinic
-            </h2>
+            </h3>
             <p>
                 1.All patients referred to the department will be screened at room no. 123 by Interns, Clinical Assistants, Dental Surgeon, Assistant Professor, Associate Professor.
             </p>
@@ -61,9 +61,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             <p>
                 6. Special cases such as Trauma, Benign and Malignant tumours, Premalignant conditions, TMJ disorders, Sero-positivepatients, Space infection cases etc are referred to the PG section ie. room no. 100
             </p>
-            <h2>
+            <h3>
                 PG Clinic
-            </h2>
+            </h3>
             <p>
                 1. Special cases are evaluated in the PG clinic initially by the Post graduate students.
             </p>
@@ -85,9 +85,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
         </div>
 
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Vision
-            </h1>
+            </h2>
             <li class="italic mt-4">
                 Vision of Department of oral and Maxillofacial surgery is to train under graduate and post graduate students to attend the highest standard of education in the field of oral and maxillofacial surgery
             </li>
@@ -100,9 +100,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
         </div>
 
         <div class="largeContentCard">
-            <h1 class="title">
+            <h2 class="title">
                 Mission
-            </h1>
+            </h2>
             <li>
                 The mission of Department of oral and Maxillofacial surgery is to improve performance of the oral health system, oral health status and awareness through education, research and service. 
                 Department of oral and Maxillofacial surgery believes in being paradigm shift in education &healing.
@@ -110,30 +110,30 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
         </div>
 
         <div class="largeContentCard">
-            <h1>
-                UG CURRICULUM
-            </h1>
             <h2>
-                Academic Activities
+                UG CURRICULUM
             </h2>
+            <h3>
+                Academic Activities
+            </h3>
             <p>
                 Oral and Maxillofacial Surgery is introduces as a subject in the third year of BDS and the student appears for the final examination in the final year of under-graduation. Lectures are conducted as per the schedule laid by MUHS. Practice viva and relevant diagram drawing projects are integral part of the course. Apart from lectures, seminars are taken weekly and journal clubs and is organized fortnightly.
             </p>
-            <h2>
+            <h3>
                 Clinical Activities
-            </h2>
+            </h3>
             <p>
                 The patient exposure for the students starts from third year and has postings of two weeks duration per term. Each student is required to complete a minimum number of cases as per the MUHS rules and regulations. A clinical work record is maintained by the students. Introductory demonstrations on the patients are given to the students and basic as well as newer techniques of various treatment modalities are taught to them.
             </p>
         </div>
 
         <div class="largeContentCard">
-            <h1>
-                PG CURRICULUM
-            </h1>
             <h2>
-                Academic Activities
+                PG CURRICULUM
             </h2>
+            <h3>
+                Academic Activities
+            </h3>
             <p>
                 Lectures, seminars, case presentations are taken weekly and journal clubs and is organized fortnightly.
             </p>
@@ -146,9 +146,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             <p>
                 Post graduates attend  annual conferences , post graduate conventions & various workshops to improve presentation skills.
             </p>
-            <h2>
+            <h3>
                 Clinical Activities
-            </h2>
+            </h3>
             <p>
                 First and second year pgs casualty duties decided according to rotation wise under direct supervision of assistant professors and under guidance of associate prof and HOD.
             </p>
@@ -167,9 +167,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
         </div>
 
         <div class="largeContentCard">
-            <h1>
+            <h2>
                 PATIENT SERVICES
-            </h1>
+            </h2>
             <p>
                 1. Exodontia
             </p>
@@ -185,7 +185,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             <div class="facultyToggleBtn">
                 <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
                 <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
-                <h1>Our Faculty</h1>
+                <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
@@ -243,7 +243,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
         </div>
 
         <div>
-            <h1>Gallery</h1>
+            <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/DEPARTMENT STAFF AND POST- GRADUATES PHOTOGRAPHS.png" alt="Department Image" />
