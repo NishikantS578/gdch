@@ -62,6 +62,4 @@
 
 <?php
 
-include($ROOT . "public/js/global.php")
-
 ?>
