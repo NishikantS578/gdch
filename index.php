@@ -12,6 +12,7 @@ $CURRENTDIRURL = $ROOTURL . "";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Government Dental College and Hospital Sambhajinagar (1982-83).">
     <title>Government Dental College & Hospital Sambhajinagar</title>
     <link rel="icon" type="image/x-icon" href="<?php echo $ROOTURL ?>public/assets/gdclogo1.png">
 
@@ -63,18 +64,12 @@ $CURRENTDIRURL = $ROOTURL . "";
             <div class="imageContainer">
                 <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel2.jpg" alt="" width="500" height="500"></img>
             </div>
-            <!-- <div class="imageContainer">
-                <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel3.jpg" alt="" width="500" height="500"></img>
-            </div> -->
             <div class="imageContainer">
                 <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel4.jpg" alt="" width="500" height="500"></img>
             </div>
             <div class="imageContainer">
                 <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel5.jpg" alt="" width="500" height="500"></img>
             </div>
-            <!-- <div class="imageContainer">
-                <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel6.jpg" alt="" width="500" height="500"></img>
-            </div> -->
             <div class="imageContainer">
                 <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel7.jpg" alt="" width="500" height="500"></img>
             </div>
