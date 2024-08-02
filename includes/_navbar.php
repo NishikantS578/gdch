@@ -9,7 +9,7 @@
     </div>
 
     <div class="bannerContainer">
-        <a href="/"><img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="logo" height="150" width="150"  loading="lazy"/></a>
+        <a href="/"><img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="logo" height="150" width="150"/></a>
         
         <div class="bannerTextContainer">
             <h2>
@@ -25,8 +25,8 @@
                 Recognized by Dental Council of India, New Delhi
             </h3>
         </div>
-        <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraLogo.png" class="logo" alt="Government Of Maharashtra Logo" height="150" width="150"  loading="lazy" />
-        <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraEmblem.png" class="logo extra" alt="Government Of Maharashtra Emblem" height="150" width="100"  loading="lazy" />
+        <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraLogo.png" class="logo" alt="Government Of Maharashtra Logo" height="150" width="150"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraEmblem.png" class="logo extra" alt="Government Of Maharashtra Emblem" height="150" width="100"/>
     </div>
 
     <div class="navbar">
@@ -43,7 +43,7 @@
             <div class="dropdownContainer">
                 <div>
                     ABOUT US
-                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"  loading="lazy" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"/>
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>about-us/about-college"> ABOUT COLLEGE </a>
@@ -56,7 +56,7 @@
             <div class="dropdownContainer">
                 <div>
                     DEPARTMENTS
-                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"  loading="lazy" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"/>
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>departments/oral-medicine-and-radiology"> DEPARTMENT OF ORAL MEDICINE & RADIOLOGY </a>
@@ -74,7 +74,7 @@
             <div class="dropdownContainer">
                 <div>
                     STUDENT PORTAL
-                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"  loading="lazy" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"/>
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>student-portal/anti-ragging"> ANTI RAGGING </a>
@@ -94,7 +94,7 @@
             <div class="dropdownContainer">
                 <div>
                     ADMISSION
-                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"  loading="lazy" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"/>
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>admission/NEET-PG-2024..MDS Admission Process Instruction Manual for the academic year 2024-25.pdf" type="application/pdf" target="_blank">
@@ -122,7 +122,7 @@
             <div class="dropdownContainer">
                 <div>
                     RESEARCH
-                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"  loading="lazy" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"/>
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>research/research-directors-message"> RESEARCH DIRECTOR'S MESSAGE </a>
@@ -143,5 +143,5 @@
     </div>
 </div>
 <div class="backToTopBtn">
-    <img src="<?php echo $ROOTURL ?>public/assets loading="lazy" /up.svg" alt="Back to top icon">
+    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="Back to top icon">
 </div>
