@@ -12,7 +12,7 @@ $CURRENTDIRURL = $ROOTURL . "";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Govt Dental College and Hospital, Chatrapati Sambhajinagar (GDCH) is one of the reputed Govt. Dental Colleges in Maharashtra.">
+    <meta name="description" content="Governmentt Dental College and Hospital, Chhatrapati Sambhajinagar (GDCH) is one of the reputed Government Dental Colleges in Maharashtra, Affiliated with the Maharashtra University of Health Sciences, Nashik.">
     <title>Government Dental College & Hospital Sambhajinagar</title>
     <link rel="canonical" href="https://gdchcsn.ac.in">
     <link rel="icon" type="image/x-icon" href="<?php echo $ROOTURL ?>public/assets/gdclogo1.png">
