@@ -9,7 +9,7 @@
     </div>
 
     <div class="bannerContainer">
-        <a href="/"><img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="logo" height="150" width="150" />< loading="lazy" /a>
+        <a href="/"><img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="logo" height="150" width="150"  loading="lazy"/></a>
         
         <div class="bannerTextContainer">
             <h2>
