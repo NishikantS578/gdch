@@ -24,7 +24,7 @@ $CURRENTDIRURL = $ROOTURL . "research/research-publications/";
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             RESEARCH PUBLICATIONS
         </h1>

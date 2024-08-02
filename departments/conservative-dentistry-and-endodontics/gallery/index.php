@@ -25,7 +25,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy"/>
         <h1>
             DEPARTMENT OF CONSERVATIVE DENTISTRY AND ENDODONTICS Gallery
         </h1>
@@ -37,31 +37,31 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
             </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/centralClinic.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/centralClinic.png" alt="Department Image"  loading="lazy"/>
                     <p>Central Clinic</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/clinicBoard.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/clinicBoard.png" alt="Department Image"  loading="lazy"/>
                     <p>Clinic Board</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/clinic.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/clinic.png" alt="Department Image"  loading="lazy"/>
                     <p>Clinic</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/dentalOperatingMicroscope.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/dentalOperatingMicroscope.png" alt="Department Image"  loading="lazy"/>
                     <p>Dental Operating Microscope</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/departmentBoard.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/departmentBoard.png" alt="Department Image"  loading="lazy"/>
                     <p>Department Board</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/hardAndSoftTissueLaser.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/hardAndSoftTissueLaser.png" alt="Department Image"  loading="lazy"/>
                     <p>Hard And Soft Tissue Laser</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/preClinicalLab.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/preClinicalLab.png" alt="Department Image"  loading="lazy"/>
                     <p>Pre Clinical Lab</p>
                 </div>
             </div>

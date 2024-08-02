@@ -35,7 +35,7 @@ $CURRENTDIRURL = $ROOTURL . "about-us/infrastructure/";
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" />
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"  loading="lazy"/>
         <h1>
             INFRASTRUCTURE
         </h1>
@@ -45,12 +45,12 @@ $CURRENTDIRURL = $ROOTURL . "about-us/infrastructure/";
             <div>
                 <div class="facultyContainer">
                     <div class="facultyToggleBtn">
-                        <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
-                        <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
+                        <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"  loading="lazy"/>
+                        <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"  loading="lazy"/>
                         <h2>Hostel Information</h2>
                     </div>
                     <div class="facultyGallery">
-                        <img src="<?php echo $CURRENTDIRURL ?>assets/Hostel-img.png" class="Hostel-img" alt="">
+                        <img src="<?php echo $CURRENTDIRURL ?>assets/Hostel-img.png" class="Hostel-img" alt="" loading="lazy"/>
                         <h3>The Govt. Dental College & Hospital, chhatrapati sambhajinagar is situated in the Centre of City. GDC
                             Boy’s and Girl’s hostel is only 200 meters away from the college hospital premises.
                             The college provides separate hostel facilities for girls and boys with 72 rooms in the girl’s hostel and
@@ -70,8 +70,8 @@ $CURRENTDIRURL = $ROOTURL . "about-us/infrastructure/";
 
                 <div class="facultyContainer">
                     <div class="facultyToggleBtn">
-                        <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
-                        <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
+                        <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"  loading="lazy"/>
+                        <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"  loading="lazy"/>
                         <h2>Library Information</h2>
                     </div>
                     <div class="facultyGallery" style="padding:0">
@@ -103,9 +103,9 @@ $CURRENTDIRURL = $ROOTURL . "about-us/infrastructure/";
                             annually as per the requirements of various departments.
                         </h3>
                         <div class="library-img-container">
-                            <img src="<?php echo $CURRENTDIRURL ?>assets/library1.png" alt="">
+                            <img src="<?php echo $CURRENTDIRURL ?>assets/library1.png" alt="" loading="lazy"/>
                             <p style="font-size: 1.2rem; font-weight:500; padding:10px 0;">LIBRARIAN SECTION</p>
-                            <img src="<?php echo $CURRENTDIRURL ?>assets/library2.png" alt="">
+                            <img src="<?php echo $CURRENTDIRURL ?>assets/library2.png" alt="" loading="lazy"/>
                             <p style="font-size: 1.2rem; font-weight:500; padding:10px 0;">E- Library</p>
                             <a style=" font-size:1.5rem; font-weight:600;" href="<?php echo $CURRENTDIRURL ?>assets/Library Information.pdf" type="application/pdf" target="_blank">View more</a>
                         </div>

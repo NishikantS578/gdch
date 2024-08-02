@@ -25,7 +25,7 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/student-info/";
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             STUDENT INFO
         </h1>

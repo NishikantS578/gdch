@@ -27,7 +27,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy"/>
         <h1>
             DEPARTMENT OF CONSERVATIVE DENTISTRY AND ENDODONTICS
         </h1>
@@ -144,76 +144,76 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
 
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy"/>
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy"/>
                 <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/drPradnyaVilasBansode/profilePic.png" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/drPradnyaVilasBansode/profilePic.png" alt="faculty" width="200" height="200"  loading="lazy"/>
                     <a href= "<?php echo $CURRENTDIRURL ?>assets/drPradnyaVilasBansode/cv.pdf" type="application/pdf" target="_blank" >
                         Dr. Pradnya Vilas Bansode
                     </a>
                     <p>Professor (MPSC) and Head of department, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/drSeemaDhananjayPathak/profilePic.png" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/drSeemaDhananjayPathak/profilePic.png" alt="faculty" width="200" height="200"  loading="lazy"/>
                     <a href= "<?php echo $CURRENTDIRURL ?>assets/drSeemaDhananjayPathak/cv.pdf" type="application/pdf" target="_blank" >
                         Dr. Seema Dhananjay Pathak
                     </a>
                     <p>Associate Professor, Dept. of Conservative Dentistry, ...</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Madhuri Ambhure (1).JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Madhuri Ambhure (1).JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
                     <a href= "<?php echo $CURRENTDIRURL ?>assets/drMadhuriMilindAmbhure/cv.pdf" type="application/pdf" target="_blank" >
                         Dr. Madhuri Milind Ambhure
                     </a>
                     <p>Associate Professor, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Shirish Khedgikar.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Shirish Khedgikar.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
                     <a href= "<?php echo $CURRENTDIRURL ?>assets/drShirish-Khedgikar/Shirish-Khedgikar.pdf" type="application/pdf" target="_blank" >
                         Dr. Shirish Bhimrao Khedgikar
                     </a>
                     <p>Associate Professor, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Geetam Duduskar.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Geetam Duduskar.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
                     <a>
                         Dr. Geetam Duduskar
                     </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Swetha Kannamparambil.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Swetha Kannamparambil.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
                     <a>
                         Dr. Swetha Kannamparambil
                     </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Anjali Mule.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Anjali Mule.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
                     <a>
                         Dr. Anjali Mule
                     </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Suyog Jadhav (1).JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Suyog Jadhav (1).JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
                     <a>
                         Dr. Suyog Jadhav
                     </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Aarti Pathak.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Aarti Pathak.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
                     <a>
                         Dr. Aarti Pathak
                     </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Rohini R (1).JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Rohini R (1).JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
                     <a>
                         Dr. Rohini R
                     </a>
@@ -227,20 +227,19 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/departmentBoard.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/departmentBoard.png" alt="Department Image"  loading="lazy"/>
                     <p>Department Board</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/centralClinic.png" alt="Department Image" /> 
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/centralClinic.png" alt="Department Image"  loading="lazy"/> 
                     <p>Central Clinic</p>
                 </div>
                 <div class="galleryCard">
-                    <img
-                        src="<?php echo $CURRENTDIRURL ?>gallery/assets/clinicBoard.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/clinicBoard.png" alt="Department Image"  loading="lazy"/>
                     <p>Clinic Board</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/clinic.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/clinic.png" alt="Department Image"  loading="lazy"/>
                     <p>Clinic</p>
                 </div>
             </div>

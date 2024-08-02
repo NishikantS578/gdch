@@ -25,7 +25,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/gall
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             DEPARTMENT OF PEDIATRIC AND PREVENTIVE DENTISTRY GALLERY
         </h1>
@@ -35,35 +35,35 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/gall
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/dept-image1.jpg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/dept-image1.jpg" alt="Department Image"  loading="lazy" />
                     
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/img2.jpg" alt="Department Image" /> 
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img2.jpg" alt="Department Image"  loading="lazy" /> 
                     
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/img8.jpg" alt="Department Image" /> 
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img8.jpg" alt="Department Image"  loading="lazy" /> 
                     
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/img4.png" alt="Department Image" /> 
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img4.png" alt="Department Image"  loading="lazy" /> 
                     
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/img5.jpg" alt="Department Image" /> 
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img5.jpg" alt="Department Image"  loading="lazy" /> 
                     
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/img6.jpg" alt="Department Image" /> 
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img6.jpg" alt="Department Image"  loading="lazy" /> 
                     
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/img7.jpg" alt="Department Image" /> 
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img7.jpg" alt="Department Image"  loading="lazy" /> 
                     
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/img8.jpg" alt="Department Image" /> 
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img8.jpg" alt="Department Image"  loading="lazy" /> 
                     
                 </div>
             </div>

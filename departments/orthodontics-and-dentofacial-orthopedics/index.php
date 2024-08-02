@@ -34,7 +34,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" />
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"  loading="lazy" />
         <h1>
             DEPARTMENT OF ORTHODONTICS AND DENTOFACIAL ORTHOPEDICS
         </h1>
@@ -128,14 +128,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
 
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"  loading="lazy" />
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"  loading="lazy" />
                 <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Rajan-Mahindra/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Rajan-Mahindra/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Rajan-Mahindra/Dr-Rajan-Mahindra.pdf" type="application/pdf" target="_blank">
                         Dr. Rajan K. Mahindra
                     </a>
@@ -143,7 +143,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Govind-Raghunath/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Govind-Raghunath/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Govind-Raghunath/Dr-Govind-Raghunath.pdf" type="application/pdf" target="_blank">
                         Dr. Govind Raghunath Suryawanshi
                     </a>
@@ -151,7 +151,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Rakesh-Mohade/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Rakesh-Mohade/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Rakesh-Mohade/Dr-Rakesh-Mohade.pdf" type="application/pdf" target="_blank">
                         Dr. Rakesh Rai Mohode
                     </a>
@@ -159,7 +159,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Aboli-Muley/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Aboli-Muley/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Aboli-Muley/Dr-Aboli-Muley.pdf" type="application/pdf" target="_blank">
                         Dr. Aboli Muley
                     </a>
@@ -173,17 +173,17 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-1.jpeg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-1.jpeg" alt="Department Image"  loading="lazy" />
                     <!-- <p>Undergraduate Clinic</p> -->
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-2.jpeg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-2.jpeg" alt="Department Image"  loading="lazy" />
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-3.jpeg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-3.jpeg" alt="Department Image"  loading="lazy" />
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-4.jpeg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-4.jpeg" alt="Department Image"  loading="lazy" />
                 </div>
             </div>
             <a class="readMoreBtn" href="<?php echo $CURRENTDIRURL ?>gallery">

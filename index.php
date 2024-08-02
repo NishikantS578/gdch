@@ -60,65 +60,65 @@ $CURRENTDIRURL = $ROOTURL . "";
     <div class="carouselContainer">
         <div class="carousel">
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel1.jpg" alt="College Building" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel1.jpg" alt="College Building" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel2.jpg" alt="Prize Distribution" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel2.jpg" alt="Prize Distribution" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel4.jpg" alt="Prize Distribution" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel4.jpg" alt="Prize Distribution" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel5.jpg" alt="College Building" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel5.jpg" alt="College Building" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel7.jpg" alt="College Building" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel7.jpg" alt="College Building" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel8.jpg" alt="College Building" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel8.jpg" alt="College Building" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel9.jpg" alt="College Building" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel9.jpg" alt="College Building" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel10.jpg" alt="Hostel" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel10.jpg" alt="Hostel" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel11.jpg" alt="College" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel11.jpg" alt="College" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel12.jpg" alt="College" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel12.jpg" alt="College" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel13.jpg" alt="College" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel13.jpg" alt="College" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel14.jpg" alt="Batch 2018" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel14.jpg" alt="Batch 2018" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel15.jpg" alt="Prize Distribution" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel15.jpg" alt="Prize Distribution" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel16.jpg" alt="Event" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel16.jpg" alt="Event" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel17.jpg" alt="Prize Distribution" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel17.jpg" alt="Prize Distribution" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel18.jpg" alt="Event" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel18.jpg" alt="Event" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel19.jpg" alt="Prize Distribution" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel19.jpg" alt="Prize Distribution" width="500" height="500" loading="lazy"></img>
             </div>
             <div class="imageContainer">
-                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel20.jpg" alt="Felicitation" width="500" height="500"></img>
+                <img src="<?php echo $CURRENTDIRURL ?>assets/Carousel20.jpg" alt="Felicitation" width="500" height="500" loading="lazy"></img>
             </div>
         </div>
         <button class="left">
-            <img src="<?php echo $CURRENTDIRURL ?>assets/left-arrow.png" alt="Left Carousel Button"></img>
+            <img src="<?php echo $CURRENTDIRURL ?>assets/left-arrow.png" alt="Left Carousel Button" loading="lazy"></img>
         </button>
         <button class="right">
-            <img src="<?php echo $CURRENTDIRURL ?>assets/right-arrow.png" alt="Right Carousel Button"></img>
+            <img src="<?php echo $CURRENTDIRURL ?>assets/right-arrow.png" alt="Right Carousel Button" loading="lazy"></img>
         </button>
     </div>
 
@@ -144,7 +144,7 @@ $CURRENTDIRURL = $ROOTURL . "";
             <h2>
                 DEAN'S MESSAGE
             </h2>
-            <img style="border-radius:10px;" src="<?php echo $CURRENTDIRURL ?>assets/dean.jpg" alt="Dean's Photo"></img>
+            <img style="border-radius:10px;" src="<?php echo $CURRENTDIRURL ?>assets/dean.jpg" alt="Dean's Photo" loading="lazy"></img>
             <div>
                 <p>
                     I <strong>Dr. Maya S. Indurkar</strong> welcome you to this prestigious Govt. Dental College and Hospital Chh.Sambhajinagar(Aurangabad), only Govt college in Marathwada region. This institution was established in the year 1982 by Govt. of Maharashtra. It is my great pleasure to extend a warm welcome to each and everyone of you.

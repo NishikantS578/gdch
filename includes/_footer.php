@@ -46,7 +46,7 @@
             </p>
             <p>
                 <a href="https://www.facebook.com/profile.php?id=100063937994949&mibextid=ZbWKwL" target="_blank">
-                    <img src="<?php echo $ROOTURL; ?>public/assets/facebookIcon.png" alt="Facebook Profile" height="50" />
+                    <img src="<?php echo $ROOTURL; ?>public/assets/facebookIcon.png" alt="Facebook Profile" height="50"  loading="lazy" />
                 </a>
             </p>
         </div>

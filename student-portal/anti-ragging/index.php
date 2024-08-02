@@ -25,7 +25,7 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/anti-ragging/";
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             ANTI RAGGING
         </h1>

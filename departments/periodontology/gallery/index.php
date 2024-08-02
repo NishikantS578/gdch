@@ -25,7 +25,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/gallery/";
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             DEPARTMENT OF PERIODONTOLOGY GALLERY
         </h1>
@@ -37,11 +37,11 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/gallery/";
             </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Post Graduate Clinic.jpg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Post Graduate Clinic.jpg" alt="Department Image"  loading="lazy" />
                     <p>Undergraduate Clinic</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Special Operatory for LASER & Implantology.jpg" alt="Department Image" /> 
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Special Operatory for LASER & Implantology.jpg" alt="Department Image"  loading="lazy" /> 
                     <p>Post Graduate Clinic</p>
                 </div>
                 <div class="galleryCard">

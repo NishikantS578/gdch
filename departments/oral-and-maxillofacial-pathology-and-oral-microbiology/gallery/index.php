@@ -31,7 +31,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" />
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"  loading="lazy"/>
         <h1>
             DEPARTMENT OF ORAL AND MAXILLOFACIAL PATHOLOGY & ORAL MICROBIOLOGY GALLERY
         </h1>
@@ -40,17 +40,17 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
         <div>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img style="" src="<?php echo $CURRENTDIRURL ?>assets/Department of Oral Pathology and Microbiology.jpg" alt="">
+                    <img style="" src="<?php echo $CURRENTDIRURL ?>assets/Department of Oral Pathology and Microbiology.jpg" alt="" loading="lazy"/>
                     <p>
                         Department of Oral Pathology and Microbiology
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training programmes and Lectures1.jpg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training programmes and Lectures1.jpg" alt="Department Image" loading="lazy"/>
                     <p>Training programmes and Lectures</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training programmes and Lectures2.jpg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training programmes and Lectures2.jpg" alt="Department Image" loading="lazy"/>
                     <p>Training programmes and Lectures</p>
                 </div>
             </div>
@@ -62,32 +62,32 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
             </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps1.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps1.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps2.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps2.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps3.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps3.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps4.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps4.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps5.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps5.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps6.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Training and Screening Camps6.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
@@ -97,27 +97,27 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
         <div>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/event1.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/event1.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/event2.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/event2.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/event3.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/event3.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/event4.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/event4.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/event5.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/event5.png" alt="Department Image" loading="lazy"/>
                     <p>
                     </p>
                 </div>
@@ -130,25 +130,25 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
             </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/MUHS University Gold Medallist 2023.jpg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/MUHS University Gold Medallist 2023.jpg" alt="Department Image" loading="lazy"/>
                     <p>
                         MUHS University Gold Medallist 2023
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/First Prize Winner in National Level Quiz Competition in Microscope Rapid Review Program, SRIHER 2023.jpg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/First Prize Winner in National Level Quiz Competition in Microscope Rapid Review Program, SRIHER 2023.jpg" alt="Department Image" loading="lazy"/>
                     <p>
                         First Prize Winner in National Level Quiz Competition in Microscope Rapid Review Program, SRIHER 2023
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Best Paper Presentations in 30th IAOMP Conference, Belagavi 20231.jpg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Best Paper Presentations in 30th IAOMP Conference, Belagavi 20231.jpg" alt="Department Image" loading="lazy"/>
                     <p>
                         Best Paper Presentations in 30th IAOMP Conference, Belagavi 2023
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Winner of VR Mehta Award at 30th IAOMP Conference, Belagavi 2023.jpg" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Winner of VR Mehta Award at 30th IAOMP Conference, Belagavi 2023.jpg" alt="Department Image" loading="lazy"/>
                     <p>
                         Winner of VR Mehta Award at 30th IAOMP Conference, Belagavi 2023
                     </p>
