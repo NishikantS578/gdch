@@ -109,6 +109,7 @@
 }
 
 .contentContainer>.collegeIntro h2, .contentContainer>.collegeIntro h1{
+    text-align: center;
     width: 100%;
     color: var(--primary-color);
     font-size: 1rem;
@@ -233,7 +234,6 @@
 
     .contentContainer>.collegeIntro h2, .contentContainer>.collegeIntro h1 {
         font-size: 1.5rem;
-        text-align: center;
     }
 
     .collegeIntro>.introduction {
