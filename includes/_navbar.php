@@ -91,7 +91,10 @@
                     <a href="<?php echo $ROOTURL ?>student-portal/equal-opportunity-cell"> EQUAL OPPORTUNITY CELL </a>
                 </div>
             </div>
-            <div class="dropdownContainer">
+            <a href="<?php echo $ROOTURL ?>admission">
+                ADMISSION
+            </a>
+            <!-- <div class="dropdownContainer">
                 <div>
                     ADMISSION
                     <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"/>
@@ -102,7 +105,7 @@
                     </a>
 
                 </div>
-            </div>
+            </div> -->
 
             <a href="<?php echo $ROOTURL ?>alumni-association">
                 ALUMNI ASSOCIATION

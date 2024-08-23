@@ -2,7 +2,7 @@
 
 $ROOT = "../"; 
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "";
+$CURRENTDIRURL = $ROOTURL . "student-portal";
 
 ?>
 
