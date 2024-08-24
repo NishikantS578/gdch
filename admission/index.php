@@ -25,6 +25,8 @@ $CURRENTDIRURL = $ROOTURL . "admission/";
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css">
     </link>
     </link>
+    
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/about-us/about-us.css"></link>
 </head>
 
 <body>
@@ -38,11 +40,11 @@ $CURRENTDIRURL = $ROOTURL . "admission/";
         </h1>
     </div>
     <div class="contentContainer">
-        <div>
+        <div class="certificate-container">
             <h2>
                 Downloads
             </h2>
-            <ul>
+            <ul class="unOrderedList">
                 <li>
                     <a href="<?php echo $CURRENTDIRURL ?>assets/NEET-PG-2024..MDS Admission Process Instruction Manual for the academic year 2024-25.pdf" target="_blank">
                         NEET-PG-2024 MDS Admission Process Instruction Manual for the academic year (2024-25)
