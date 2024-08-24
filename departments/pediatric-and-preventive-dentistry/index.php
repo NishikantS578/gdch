@@ -11,7 +11,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Government Dental College & Hospital Sambhajinagar</title>
+    <title>Government Dental College & Hospital Chhatrapati Sambhajinagar</title>
     <link rel="icon" type="image/x-icon" href="<?php echo $ROOTURL ?>public/assets/gdclogo1.png">
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
@@ -47,7 +47,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
               dentistry with immense potential, paediatric dentistry aims to
               eliminate fear at an early age with the inculcation of positive
               attitudes. The Department of Pediatric and Preventive Dentistry,
-              Chhtrapaji Sambhajinagar caters to maintain a perfect blend of
+              Chhatrapati Sambhajinagar caters to maintain a perfect blend of
               both the clinical and academic arenas of the field. Scope ranges
               from prenatal counseling of parents to all the dental treatments
               upto 13 years of age. Dental Care of the medically and mentally

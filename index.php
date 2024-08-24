@@ -13,7 +13,7 @@ $CURRENTDIRURL = $ROOTURL . "";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Governmentt Dental College and Hospital, Chhatrapati Sambhajinagar (GDCH) is one of the reputed Government Dental Colleges in Maharashtra, Affiliated with the Maharashtra University of Health Sciences, Nashik.">
-    <title>Government Dental College & Hospital Sambhajinagar</title>
+    <title>Government Dental College & Hospital Chhatrapati Sambhajinagar</title>
     <link rel="canonical" href="https://gdchcsn.ac.in">
     <link rel="icon" type="image/x-icon" href="<?php echo $ROOTURL ?>public/assets/gdclogo1.png">
 

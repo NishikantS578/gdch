@@ -12,7 +12,7 @@ $CURRENTDIRURL = $ROOTURL . "about-us/infrastructure/";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Government Dental College & Hospital Sambhajinagar</title>
+    <title>Government Dental College & Hospital Chhatrapati Sambhajinagar</title>
     <link rel="icon" type="image/x-icon" href="<?php echo $ROOTURL ?>public/assets/gdclogo1.png">
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
@@ -51,7 +51,7 @@ $CURRENTDIRURL = $ROOTURL . "about-us/infrastructure/";
                     </div>
                     <div class="facultyGallery">
                         <img src="<?php echo $CURRENTDIRURL ?>assets/Hostel-img.png" class="Hostel-img" alt="" loading="lazy"/>
-                        <h3>The Govt. Dental College & Hospital, chhatrapati sambhajinagar is situated in the Centre of City. GDC
+                        <h3>The Govt. Dental College & Hospital, Chhatrapati Sambhajinagar is situated in the Centre of City. GDC
                             Boy’s and Girl’s hostel is only 200 meters away from the college hospital premises.
                             The college provides separate hostel facilities for girls and boys with 72 rooms in the girl’s hostel and
                             40 rooms in the boy’s hostel. The hostel campus is having all the essential amenities like filtered

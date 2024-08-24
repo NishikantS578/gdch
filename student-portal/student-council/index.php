@@ -12,7 +12,7 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/student-council/";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Government Dental College & Hospital Sambhajinagar</title>
+    <title>Government Dental College & Hospital Chhatrapati Sambhajinagar</title>
     <link rel="icon" type="image/x-icon" href="<?php echo $ROOTURL ?>public/assets/gdclogo1.png">
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
