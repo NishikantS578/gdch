@@ -36,7 +36,8 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                 <ol class="unOrderedList">
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/सहयोगी प्राध्यापक सामाजिक दंतशास्त्र करार पद्धतीने पदभरती जाहिरात.pdf" >सहयोगी प्राध्यापक सामाजिक दंतशास्त्र करार पद्धतीने पदभरती जाहिरात</a></li>
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/जाहिरात शुद्धिपत्रक सहयोगी प्राध्यापक, सामाजिक दंतशास्त्र.pdf">जाहिरात शुद्धिपत्रक सहयोगी प्राध्यापक, सामाजिक दंतशास्त्र</a></li>
-                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/CA Ship October 2024.pdf">चिकित्सालीन सहाय्यक पदभरती</a></li>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/CA Ship October 2024.pdf">चिकित्सालीन सहाय्यक पदभरती</a></li> 
+                    <!-- added new job file -->
                 </ol>
             </div> 
         </div>             
