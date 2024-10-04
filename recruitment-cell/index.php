@@ -34,7 +34,7 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
         <div class="main">
             <div class="certificate-container">
                 <ol class="unOrderedList">
-                    <li><a style="font-weight:400" href="<?php echo $CURRENTDIRURL ?>assets/Provisional Merit list for the Post of Clinical Assistant Oct-2024.pdf">Provisional Merit list for the post of Clinical Assistant Oct-2024</a></li> 
+                    <li><a style="font-weight:400" href="<?php echo $CURRENTDIRURL ?>assets/Provisional Merit list for the post of Clinical Assistant Oct-2024.pdf">Provisional Merit list for the Post of Clinical Assistant Oct-2024</a></li> 
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/सहयोगी प्राध्यापक सामाजिक दंतशास्त्र करार पद्धतीने पदभरती जाहिरात.pdf" >सहयोगी प्राध्यापक सामाजिक दंतशास्त्र करार पद्धतीने पदभरती जाहिरात</a></li>
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/जाहिरात शुद्धिपत्रक सहयोगी प्राध्यापक, सामाजिक दंतशास्त्र.pdf">जाहिरात शुद्धिपत्रक सहयोगी प्राध्यापक, सामाजिक दंतशास्त्र</a></li>
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/CA Ship October 2024.pdf">चिकित्सालीन सहाय्यक पदभरती</a></li> 
