@@ -44,6 +44,9 @@ $CURRENTDIRURL = $ROOTURL . "";
             <a href="<?php echo $CURRENTDIRURL ?>public/assets/indiaTodayRanking.jpeg" target="_blank">
                 India Today Ranking
             </a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/Provisional Merit list for the post of Clinical Assistant Oct-2024.pdf" target="_blank">
+                Provisional Merit list for the Post of Clinical Assistant Oct-2024
+            </a>
         </div>
         <div class="marqueeContent">
             <a href="<?php echo $ROOTURL ?>admission/">
@@ -54,6 +57,9 @@ $CURRENTDIRURL = $ROOTURL . "";
             </a>
             <a href="<?php echo $CURRENTDIRURL ?>public/assets/indiaTodayRanking.jpeg" target="_blank">
                 India Today Ranking
+            </a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/Provisional Merit list for the post of Clinical Assistant Oct-2024.pdf" target="_blank">
+                Provisional Merit list for the Post of Clinical Assistant Oct-2024
             </a>
         </div>
     </div>
