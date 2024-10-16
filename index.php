@@ -50,6 +50,9 @@ $CURRENTDIRURL = $ROOTURL . "";
             <a href="<?php echo $CURRENTDIRURL ?>public/assets/Final Merit list for the post of Clinical Assistant October 2024.pdf" target="_blank">
                 Final Merit List For The Post of Clinical Assistant October 2024
             </a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/अंतिम निवड यादी CA Ship 2024.pdf" target="_blank">
+                अंतिम निवड यादी CA Ship 2024
+            </a>
         </div>
         <div class="marqueeContent">
             <a href="<?php echo $ROOTURL ?>admission/">
@@ -64,6 +67,9 @@ $CURRENTDIRURL = $ROOTURL . "";
             <a href="<?php echo $CURRENTDIRURL ?>public/assets/Provisional Merit list for the post of Clinical Assistant Oct-2024.pdf" target="_blank">
                 Provisional Merit list for the Post of Clinical Assistant Oct-2024
             </a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/अंतिम निवड यादी CA Ship 2024.pdf" target="_blank">
+                अंतिम निवड यादी CA Ship 2024
+        </a>
         </div>
     </div>
     <div class="carouselContainer">
