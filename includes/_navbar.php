@@ -26,7 +26,7 @@
             </h3>
         </div>
         <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraLogo.png" class="logo" alt="Government Of Maharashtra Logo" height="150" width="150"/>
-        <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraEmblem.png" class="logo extra" alt="Government Of Maharashtra Emblem" height="150" width="100"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/national_emblem.svg" class="logo extra" alt="National Emblem" height="150" width="100"/>
     </div>
 
     <div class="navbar">

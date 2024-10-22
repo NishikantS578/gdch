@@ -93,19 +93,23 @@
     background-color: #ffffff2f;
 }
 
-.contentContainer {
+/* .contentContainer {
     margin: auto;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     padding: 1rem;
-}
+} */
 
 .collegeIntro {
     display: flex;
     flex-direction: column;
     align-items: center;
     font-size: 0.75rem;
+}
+
+.collegeIntro div{
+    margin-bottom: 1rem;
 }
 
 .contentContainer>.collegeIntro h2, .contentContainer>.collegeIntro h1{
@@ -115,8 +119,8 @@
     font-size: 1rem;
     font-weight: bold;
     font-family: serif;
-    margin-top: 1rem;
-    margin-bottom: 1.5rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
     text-transform: uppercase;
 }
 
@@ -170,9 +174,8 @@
     margin: 0.125rem;
 }
 
-.deansMessage strong {
+strong {
     color: var(--primary-color);
-    font-size: 0.75rem;
 }
 
 .deansMessage>div>a {
@@ -185,30 +188,6 @@
     border-radius: 0.5rem;
 }
 
-.contentContainer>div>h2 {
-    font-size: 1rem;
-    font-weight: bold;
-    color: var(--primary-color);
-    text-align: center;
-    margin-bottom: 1rem;
-    text-transform: uppercase;
-}
-
-.contentContainer>div>p {
-    text-align: justify;
-    font-size: 0.75rem;
-    margin-bottom: 1rem;
-}
-
-.contentContainer>div>a {
-    display: block;
-    font-size: 0.75rem;
-    width: fit-content;
-    color: var(--primary-color);
-    font-weight: bold;
-    margin: 1rem 0;
-}
-
 @media only screen and (min-width: 768px) {
     .imageContainer {
         height: 700px;
@@ -219,21 +198,21 @@
         height: 2rem;
     }
 
-    .contentContainer {
+    /* .contentContainer {
         max-width: 70%;
         margin: 2rem auto;
-    }
+    } */
 
-    .contentContainer>div>h2 {
+    /* .contentContainer>div>h2 {
         font-size: 1.5rem;
-    }
+    } */
 
     .collegeIntro {
         font-size: 1rem;
     }
 
     .contentContainer>.collegeIntro h2, .contentContainer>.collegeIntro h1 {
-        font-size: 1.5rem;
+        font-size: 1.75rem;
     }
 
     .collegeIntro>.introduction {
