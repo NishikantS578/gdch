@@ -59,6 +59,7 @@
 
 .navbar {
     background-color: var(--primary-color);
+    padding: 0 200px;
     color: white;
     display: flex;
     flex-direction: column;
@@ -136,7 +137,7 @@
 .dropdownContainer>.subNavItemContainer {
     min-width: fit-content;
     z-index: 50;
-    background-color: var(--primary-color);
+    background-color: var(--light-primary-color);
     display: none;
     flex-direction: column;
     padding: 0;
@@ -159,7 +160,7 @@
 }
 
 .subNavItemContainer>a:hover {
-    background-color: var(--light-primary-color);
+    background-color: var(--primary-color);
 }
 
 .backToTopBtn {
