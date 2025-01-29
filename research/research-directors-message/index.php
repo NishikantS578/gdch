@@ -18,7 +18,7 @@ $CURRENTDIRURL = $ROOTURL . "research/research-directors-message/";
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentstyles.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css"></link>
 </head>
 <body>
 

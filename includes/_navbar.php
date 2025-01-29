@@ -59,15 +59,15 @@
                     <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10" />
                 </div>
                 <div class="subNavItemContainer">
-                    <a href="<?php echo $ROOTURL ?>departments/oral-medicine-and-radiology"> DEPARTMENT OF ORAL MEDICINE & RADIOLOGY </a>
-                    <a href="<?php echo $ROOTURL ?>departments/oral-and-maxillofacial-surgery"> DEPARTMENT OF ORAL AND MAXILLOFACIAL SURGERY </a>
-                    <a href="<?php echo $ROOTURL ?>departments/oral-and-maxillofacial-pathology-and-oral-microbiology"> DEPARTMENT OF ORAL AND MAXILLOFACIAL PATHOLOGY & ORAL MICROBIOLOGY </a>
-                    <a href="<?php echo $ROOTURL ?>departments/periodontology"> DEPARTMENT OF PERIODONTOLOGY </a>
-                    <a href="<?php echo $ROOTURL ?>departments/community-dentistry"> DEPARTMENT OF COMMUNITY DENTISTRY </a>
-                    <a href="<?php echo $ROOTURL ?>departments/conservative-dentistry-and-endodontics"> DEPARTMENT OF CONSERVATIVE DENTISTRY AND ENDODONTICS </a>
-                    <a href="<?php echo $ROOTURL ?>departments/pediatric-and-preventive-dentistry"> DEPARTMENT OF PEDIATRIC AND PREVENTIVE DENTISTRY </a>
-                    <a href="<?php echo $ROOTURL ?>departments/orthodontics-and-dentofacial-orthopedics"> DEPARTMENT OF ORTHODONTICS AND DENTOFACIAL ORTHOPEDICS </a>
-                    <a href="<?php echo $ROOTURL ?>departments/prosthodontics"> DEPARTMENT OF PROSTHODONTICS </a>
+                    <a href="<?php echo $ROOTURL ?>departments/oral-medicine-and-radiology"> ORAL MEDICINE & RADIOLOGY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/oral-and-maxillofacial-surgery"> ORAL AND MAXILLOFACIAL SURGERY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/oral-and-maxillofacial-pathology-and-oral-microbiology"> ORAL AND MAXILLOFACIAL PATHOLOGY & ORAL MICROBIOLOGY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/periodontology"> PERIODONTOLOGY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/community-dentistry"> COMMUNITY DENTISTRY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/conservative-dentistry-and-endodontics"> CONSERVATIVE DENTISTRY AND ENDODONTICS </a>
+                    <a href="<?php echo $ROOTURL ?>departments/pediatric-and-preventive-dentistry"> PEDIATRIC AND PREVENTIVE DENTISTRY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/orthodontics-and-dentofacial-orthopedics"> ORTHODONTICS AND DENTOFACIAL ORTHOPEDICS </a>
+                    <a href="<?php echo $ROOTURL ?>departments/prosthodontics"> PROSTHODONTICS </a>
                     <a href="<?php echo $ROOTURL ?>departments/administrative-office"> ADMINISTRATIVE OFFICE </a>
                 </div>
             </div>
