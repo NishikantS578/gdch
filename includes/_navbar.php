@@ -9,8 +9,8 @@
     </div>
 
     <div class="bannerContainer">
-        <a href="/"><img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="logo" height="150" width="150"/></a>
-        
+        <a href="/"><img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="logo" height="150" width="150" /></a>
+
         <div class="bannerTextContainer">
             <h2>
                 GOVERNMENT DENTAL COLLEGE &amp; HOSPITAL
@@ -25,8 +25,8 @@
                 Recognized by Dental Council of India, New Delhi
             </h3>
         </div>
-        <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraLogo.png" class="logo" alt="Government Of Maharashtra Logo" height="150" width="150"/>
-        <img src="<?php echo $ROOTURL ?>public/assets/national_emblem.svg" class="logo extra" alt="National Emblem" height="150" width="100"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraLogo.png" class="logo" alt="Government Of Maharashtra Logo" height="150" width="150" />
+        <img src="<?php echo $ROOTURL ?>public/assets/national_emblem.svg" class="logo extra" alt="National Emblem" height="150" width="100" />
     </div>
 
     <div class="navbar">
@@ -43,7 +43,7 @@
             <div class="dropdownContainer">
                 <div>
                     ABOUT US
-                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"/>
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10" />
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>about-us/about-college"> ABOUT COLLEGE </a>
@@ -56,7 +56,7 @@
             <div class="dropdownContainer">
                 <div>
                     DEPARTMENTS
-                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"/>
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10" />
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>departments/oral-medicine-and-radiology"> DEPARTMENT OF ORAL MEDICINE & RADIOLOGY </a>
@@ -74,7 +74,7 @@
             <div class="dropdownContainer">
                 <div>
                     STUDENT PORTAL
-                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"/>
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10" />
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>student-portal/anti-ragging"> ANTI RAGGING </a>
@@ -116,16 +116,23 @@
             <a href="<?php echo $ROOTURL ?>procurement-cell">
                 PROCUREMENT CELL
             </a>
-            <a href="<?php echo $ROOTURL ?>muhs-mandate">
-                MUHS MANDATE
-            </a>
+            <div class="dropdownContainer">
+                <div>
+                    MUHS MANDATE
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10" />
+                </div>
+                <div class="subNavItemContainer">
+                    <a href="<?php echo $ROOTURL ?>muhs-mandate/2025"> 2025 </a>
+                    <a href="<?php echo $ROOTURL ?>muhs-mandate/2024"> 2024 </a>
+                </div>
+            </div>
             <a href="<?php echo $ROOTURL ?>naac">
                 NAAC
             </a>
             <div class="dropdownContainer">
                 <div>
                     RESEARCH
-                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10"/>
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10" />
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>research/research-directors-message"> RESEARCH DIRECTOR'S MESSAGE </a>
