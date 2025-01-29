@@ -41,7 +41,7 @@ $CURRENTDIRURL = $ROOTURL . "muhs-mandate/2025/";
         <div class="main">
             <div class="contentContainer">
                 <ul class="annexureContainer largeContentCard">
-                    <h3>DOWNLOADS</h3>
+                    <h3>DOWNLOADS (2025)</h3>
                     <li>
                         <a href="<?php echo $CURRENTDIRURL ?>assets/Annexure_1.pdf" target="_blank">
                             Annexure 1
