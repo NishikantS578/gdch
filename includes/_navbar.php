@@ -116,16 +116,9 @@
             <a href="<?php echo $ROOTURL ?>procurement-cell">
                 PROCUREMENT CELL
             </a>
-            <div class="dropdownContainer">
-                <div>
-                    MUHS MANDATE
-                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="up icon" height="10" width="10" />
-                </div>
-                <div class="subNavItemContainer">
-                    <a href="<?php echo $ROOTURL ?>muhs-mandate/2025"> 2025 </a>
-                    <a href="<?php echo $ROOTURL ?>muhs-mandate/2024"> 2024 </a>
-                </div>
-            </div>
+            <a href="<?php echo $ROOTURL ?>muhs-mandate/">
+                MUHS MANDATE
+            </a>
             <a href="<?php echo $ROOTURL ?>naac">
                 NAAC
             </a>
