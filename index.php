@@ -35,6 +35,9 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <div class="marquee">
         <div class="marqueeContent">
+            <a href="<?php echo $ROOTURL ?>summit/">
+                DENTAL EDUCATION RESEARCH SUMMIT-II
+            </a>
             <a href="<?php echo $ROOTURL ?>admission/">
                 Admissions
             </a>
@@ -55,6 +58,9 @@ $CURRENTDIRURL = $ROOTURL . "";
             </a>
         </div>
         <div class="marqueeContent">
+            <a href="<?php echo $ROOTURL ?>summit/">
+                DENTAL EDUCATION RESEARCH SUMMIT-II
+            </a>
             <a href="<?php echo $ROOTURL ?>admission/">
                 Admissions
             </a>
