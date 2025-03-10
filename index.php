@@ -35,30 +35,66 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <div class="marquee">
         <div class="marqueeContent">
-            <a href="<?php echo $CURRENTDIRURL ?>assets/एप्रिल-2025 अप्लिकेशन फॉर्म.pdf" target="_blank">
+            <a href="<?php echo $ROOTURL ?>summit/">
+                DENTAL EDUCATION RESEARCH SUMMIT-II
+            </a>
+            <a href="<?php echo $ROOTURL ?>admission/">
+                Admissions
+            </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/NIRF-2025.pdf" target="_blank">
+                NIRF Ranking
+            </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/india-today-ranking.jpeg" target="_blank">
+                India Today Ranking
+            </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/Provisional Merit list for the post of Clinical Assistant Oct-2024.pdf" target="_blank">
+                Provisional Merit List For The Post of Clinical Assistant Oct-2024
+            </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/Final Merit list for the post of Clinical Assistant October 2024.pdf" target="_blank">
+                Final Merit List For The Post of Clinical Assistant October 2024
+            </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/एप्रिल-2025 अप्लिकेशन फॉर्म.pdf" target="_blank">
                 एप्रिल-2025 अप्लिकेशन फॉर्म
             </a>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/एप्रिल-2025 चिकित्सलयीन सहाय्यकांची 7 पदे भरण्यासाठी अर्ज मागविण्याबाबत.pdf" target="_blank">
+            <a href="<?php echo $ROOTURL ?>public/assets/एप्रिल-2025 चिकित्सलयीन सहाय्यकांची 7 पदे भरण्यासाठी अर्ज मागविण्याबाबत.pdf" target="_blank">
                 एप्रिल-2025 चिकित्सलयीन सहाय्यकांची 7 पदे भरण्यासाठी अर्ज मागविण्याबाबत
             </a>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/एप्रिल -2025 चिकित्सालयीन सहाय्यक निवडसंबंधीचे वेळापत्रक.pdf" target="_blank">
+            <a href="<?php echo $ROOTURL ?>public/assets/एप्रिल -2025 चिकित्सालयीन सहाय्यक निवडसंबंधीचे वेळापत्रक.pdf" target="_blank">
                 एप्रिल -2025 चिकित्सालयीन सहाय्यक निवडसंबंधीचे वेळापत्रक
             </a>
-            <a href="<?php echo $CURRENTDIRURL ?>public/assets/antim_nivad_yadi_CA_Ship_Oct_2024.pdf" target="_blank">
+            <a href="<?php echo $ROOTURL ?>public/assets/antim_nivad_yadi_CA_Ship_Oct_2024.pdf" target="_blank">
                 अंतिम निवड यादी CA Ship 2024
             </a>
         </div>
         <div class="marqueeContent">
-            <a href="<?php echo $CURRENTDIRURL ?>assets/एप्रिल-2025 अप्लिकेशन फॉर्म.pdf" target="_blank">
+            <a href="<?php echo $ROOTURL ?>summit/">
+                DENTAL EDUCATION RESEARCH SUMMIT-II
+            </a>
+            <a href="<?php echo $ROOTURL ?>admission/">
+                Admissions
+            </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/NIRF-2025.pdf" target="_blank">
+                NIRF Ranking
+            </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/india-today-ranking.jpeg" target="_blank">
+                India Today Ranking
+            </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/Provisional Merit list for the post of Clinical Assistant Oct-2024.pdf" target="_blank">
+                Provisional Merit List For The Post of Clinical Assistant Oct-2024
+            </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/Final Merit list for the post of Clinical Assistant October 2024.pdf" target="_blank">
+                Final Merit List For The Post of Clinical Assistant October 2024
+            </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/एप्रिल-2025 अप्लिकेशन फॉर्म.pdf" target="_blank">
                 एप्रिल-2025 अप्लिकेशन फॉर्म
             </a>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/एप्रिल-2025 चिकित्सलयीन सहाय्यकांची 7 पदे भरण्यासाठी अर्ज मागविण्याबाबत.pdf" target="_blank">
+            <a href="<?php echo $ROOTURL ?>public/assets/एप्रिल-2025 चिकित्सलयीन सहाय्यकांची 7 पदे भरण्यासाठी अर्ज मागविण्याबाबत.pdf" target="_blank">
                 एप्रिल-2025 चिकित्सलयीन सहाय्यकांची 7 पदे भरण्यासाठी अर्ज मागविण्याबाबत
             </a>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/एप्रिल -2025 चिकित्सालयीन सहाय्यक निवडसंबंधीचे वेळापत्रक.pdf" target="_blank">
+            <a href="<?php echo $ROOTURL ?>public/assets/एप्रिल -2025 चिकित्सालयीन सहाय्यक निवडसंबंधीचे वेळापत्रक.pdf" target="_blank">
                 एप्रिल -2025 चिकित्सालयीन सहाय्यक निवडसंबंधीचे वेळापत्रक
             </a>
-            <a href="<?php echo $CURRENTDIRURL ?>public/assets/antim_nivad_yadi_CA_Ship_Oct_2024.pdf" target="_blank">
+            <a href="<?php echo $ROOTURL ?>public/assets/antim_nivad_yadi_CA_Ship_Oct_2024.pdf" target="_blank">
                 अंतिम निवड यादी CA Ship 2024
             </a>
         </div>
