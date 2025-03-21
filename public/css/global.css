@@ -227,7 +227,6 @@ a {
   border-radius: 50%;
   position: relative;
   z-index: 1;
-
 }
 
 .patron-image-wrapper::after {
@@ -237,7 +236,8 @@ a {
   left: -10px;
   width: 145px;
   height: 145px;
-  background: url("http://localhost/assets/overlay.png") no-repeat center/contain;
+  background: url("https://gdchcsn.ac.in/assets/overlay.png") no-repeat
+    center/contain;
   /* border-radius: 50%; */
   z-index: 2;
   opacity: 75%;
