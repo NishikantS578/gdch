@@ -197,13 +197,13 @@ $CURRENTDIRURL = $ROOTURL . "";
                                                 <img src="<?php echo $ROOTURL ?>assets/Hasan_Mushrif.jpg" alt="Patron" loading="lazy" />
                                             </div>
                                             <h4>Shri. Hasan Mushrif</h4>
-                                            <p style="font-size:0.9rem; text-align:center">Pro-Chancellor Minister of Medical Education</p>
+                                            <p style="font-size:0.9rem; text-align:center">Hon. Minister of Medical Education</p>
                                         </div>
                                         <div class="patron-card">
                                             <div class="patron-image-wrapper">
-                                                <img src="<?php echo $ROOTURL ?>assets/Dinesh_Waghmare.jpg" alt="Patron" loading="lazy" />
+                                                <img src="<?php echo $ROOTURL ?>assets/Dhiraj_Kumar.png" alt="Patron" loading="lazy" />
                                             </div>
-                                            <h4>Shri. Dinesh Waghmare</h4>
+                                            <h4>Shri. Dhiraj Kumar</h4>
                                             <p style="font-size:0.9rem; text-align:center">Hon.Principal Secretary, Medical education and Drugs Department</p>
                                         </div>
                                         <div class="patron-card">
