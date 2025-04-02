@@ -135,22 +135,4 @@ This is the official website for Government Dental College & Hospital Chhatrapat
 3. Use meaningful commit messages
 4. Keep documentation updated
 5. Regular backups of critical data
-6. Follow security best practices for PHP applications
 
-## Security Considerations
-
-1. Never commit sensitive credentials to Git
-2. Keep PHP and Apache updated
-3. Use proper input validation
-4. Maintain secure file permissions
-5. Regular security audits
-
-## Contact Information
-
-(Add contact information for key stakeholders and support team)
-
-## Additional Resources
-
-- PHP Documentation: https://www.php.net/docs.php
-- Apache Documentation: https://httpd.apache.org/docs/
-- Git Documentation: https://git-scm.com/doc
