@@ -9,7 +9,7 @@ This is the official website for Government Dental College & Hospital Chhatrapat
 - Backend: PHP
 - Web Server: Apache
 - Version Control: Git
-- Hosting: Government Cloud Service VM
+- Hosting: Government Cloud Service VM (ERNET)
 
 ## Project Structure
 
@@ -36,7 +36,7 @@ This is the official website for Government Dental College & Hospital Chhatrapat
 
 ## Key Components
 
-### 1. Initialization (\_init.php)
+### 1. Initialization (_init.php)
 
 - Located in `includes/_init.php`
 - Contains global configuration
