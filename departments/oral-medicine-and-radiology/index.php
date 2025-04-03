@@ -16,11 +16,13 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/departments/departmentMain.js" defer></script>
+    <script src="<?php echo $ROOTURL ?>public/js/modal.js" defer></script>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
 </head>
 <body>
 
@@ -45,7 +47,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
                 Oral and Maxillofacial Radiology within the department specializes in both conventional and advanced imaging of craniofacial, dental, and adjacent structures, along with interpreting these images for diagnosis.
             </p>
             <p>
-                Since its establishment in 1982, the department has been pivotal in providing healthcare services to the Marathwada population, with a significant influx of patients visiting the OPD daily. Over the years, the department has evolved significantly, not only enhancing its infrastructure and faculty recruitment but also acquiring state-of-the-art facilities. These include Intraoral and Extraoral Dental X-ray units, Radiovisiography (RVG), Phosphor Plate Imaging, Digital Panoramic imaging machines, Cone Beam Computed Tomography (CBCT) machines and TENS Therapy units.The ongoing “Tobacco Cessation centre”, is further developed by procuring carbon monoxide breath analyzer and incorporating newer methods of counselling, assurance and management of patients with various deleterious habits.
+                Since its establishment in 1982, the department has been pivotal in providing healthcare services to the Marathwada population, with a significant influx of patients visiting the OPD daily. Over the years, the department has evolved significantly, not only enhancing its infrastructure and faculty recruitment but also acquiring state-of-the-art facilities. These include Intraoral and Extraoral Dental X-ray units, Radiovisiography (RVG), Phosphor Plate Imaging, Digital Panoramic imaging machines, Cone Beam Computed Tomography (CBCT) machines and TENS Therapy units.The ongoing "Tobacco Cessation centre", is further developed by procuring carbon monoxide breath analyzer and incorporating newer methods of counselling, assurance and management of patients with various deleterious habits.
             </p>
             <p>
                 With advancements across various scientific and technological domains, our branch has gained profound insights in specialized areas such as:

@@ -15,10 +15,12 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
     <link rel="icon" type="image/x-icon" href="<?php echo $ROOTURL ?>public/assets/gdclogo1.png">
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
+    <script src="<?php echo $ROOTURL ?>public/js/modal.js" defer></script>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
 </head>
 <body>
 

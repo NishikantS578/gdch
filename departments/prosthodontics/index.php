@@ -17,6 +17,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/departments/departmentMain.js" defer></script>
+    <script src="<?php echo $ROOTURL ?>public/js/modal.js" defer></script>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css">
     </link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css">
@@ -27,6 +28,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
     </link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css">
     </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
 </head>
 
 <body>
