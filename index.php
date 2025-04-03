@@ -229,13 +229,6 @@ $CURRENTDIRURL = $ROOTURL . "";
                         </div>
                         <div class="patron-card">
                             <div class="patron-image-wrapper">
-                                <img src="<?php echo $ROOTURL ?>assets/Shivaji_Sukre.jpg" alt="Patron" loading="lazy" />
-                            </div>
-                            <h4>Dr. Shivaji Sukre</h4>
-                            <p style="font-size:0.9rem; text-align:center">Hon. Jt. Director, Medical Education and Research</p>
-                        </div>
-                        <div class="patron-card">
-                            <div class="patron-image-wrapper">
                                 <img src="<?php echo $ROOTURL ?>assets/Vivek_Pakhmode.jpg" alt="Patron" loading="lazy" />
                             </div>
                             <h4>Dr. Vivek Pakhmode</h4>
