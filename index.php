@@ -174,75 +174,82 @@ $CURRENTDIRURL = $ROOTURL . "";
                     Government Dental College and Hospital, Chhatrapati Sambhajinagar
                 </h1>
             </div>
-            
+
             <div class="introduction">
                 <p>
                     <strong>Govt Dental College and Hospital, Chhatrapati Sambhajinagar</strong> is one of the reputed Govt. Dental Colleges in Maharashtra. The college is popularly known as GDCH Chhatrapati Sambhajinagar and was founded in the year 1982-83. The college was established to fortify the weakest section of the Nation, i.e. Rural population. It was started to serve students with the best dental care and Oral and Maxillofacial Surgery. The college is affiliated with the Maharashtra University of Health Sciences, Nashik, and is approved by the Dental Council of India, Govt. of India.
                 </p>
                 <iframe width="590" height="332" src="https://www.youtube.com/embed/" title="FINAL DENTAL VIDEO" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe>
             </div>
-            <div style="margin-bottom: 30px;" >
+            <div style="margin-bottom: 30px;">
                 <div style="margin-top:32px; margin-bottom:0;" class="patrons-section">
                     <h2>PATRONS</h2>
                     <div style="margin-bottom:0;" class="patrons-container">
-                                        <div class="patron-card">
-                                            <div class="patron-image-wrapper">
-                                                <img src="<?php echo $ROOTURL ?>assets/Devendra_Fadnavis.jpg" alt="Patron" loading="lazy" />
-                                            </div>
-                                            <h4> Shri. Devendra Fadnavis</h4>
-                                            <p style="font-size:0.9rem; text-align:center">Hon. Chief Minister of Maharashtra</p>
-                                        </div>
-                                        <div class="patron-card">
-                                            <div class="patron-image-wrapper">
-                                                <img src="<?php echo $ROOTURL ?>assets/Hasan_Mushrif.jpg" alt="Patron" loading="lazy" />
-                                            </div>
-                                            <h4>Shri. Hasan Mushrif</h4>
-                                            <p style="font-size:0.9rem; text-align:center">Hon. Minister of Medical Education</p>
-                                        </div>
-                                        <div class="patron-card">
-                                            <div class="patron-image-wrapper">
-                                                <img src="<?php echo $ROOTURL ?>assets/Dhiraj_Kumar.png" alt="Patron" loading="lazy" />
-                                            </div>
-                                            <h4>Shri. Dhiraj Kumar</h4>
-                                            <p style="font-size:0.9rem; text-align:center">Hon.Principal Secretary, Medical education and Drugs Department</p>
-                                        </div>
-                                        <div class="patron-card">
-                                            <div class="patron-image-wrapper">
-                                                <img src="<?php echo $ROOTURL ?>assets/Rajeev_Nivatkar.jpg" alt="Patron" loading="lazy" />
-                                            </div>
-                                            <h4>Shri Rajeev Nivatkar</h4>
-                                            <p style="font-size:0.9rem; text-align:center">Hon. Commissioner, Medical Education and Research</p>
-                                        </div>
-                                        <div class="patron-card">
-                                            <div class="patron-image-wrapper">
-                                                <img src="<?php echo $ROOTURL ?>assets/Ajay_Chandanwale.jpg" alt="Patron" loading="lazy" />
-                                            </div>
-                                            <h4>Dr. Ajay Chandanwale</h4>
-                                            <p style="font-size:0.9rem; text-align:center">Hon. Director, Medical Education and Research</p>
-                                        </div>
-                                        <div class="patron-card">
-                                            <div class="patron-image-wrapper">
-                                                <img src="<?php echo $ROOTURL ?>assets/Shivaji_Sukre.jpg" alt="Patron" loading="lazy" />
-                                            </div>
-                                            <h4>Dr. Shivaji Sukre</h4>
-                                            <p style="font-size:0.9rem; text-align:center">Hon. Jt. Director, Medical Education and Research</p>
-                                        </div>
-                                        <div class="patron-card">
-                                            <div class="patron-image-wrapper">
-                                                <img src="<?php echo $ROOTURL ?>assets/Vivek_Pakhmode.jpg" alt="Patron" loading="lazy" />
-                                            </div>
-                                            <h4>Dr. Vivek Pakhmode</h4>
-                                            <p style="font-size:0.9rem; text-align:center">Hon. Jt. Director [Dental] Medical Education and Research</p>
-                                        </div>
-                                        <div class="patron-card">
-                                            <div class="patron-image-wrapper">
-                                                <img src="<?php echo $ROOTURL ?>assets/dean.jpg" alt="Patron" loading="lazy" />
-                                            </div>
-                                            <h4>Dr. Maya S. Indurkar</h4>
-                                            <p style="font-size:0.9rem; text-align:center">Hon. Dean, Govt Dental College Chhatrapati Sambhajinagar</p>
-                                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/Devendra_Fadnavis.jpg" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4> Shri. Devendra Fadnavis</h4>
+                            <p style="font-size:0.9rem; text-align:center">Hon. Chief Minister of Maharashtra</p>
+                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/Hasan_Mushrif.jpg" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4>Shri. Hasan Mushrif</h4>
+                            <p style="font-size:0.9rem; text-align:center">Hon. Minister of Medical Education</p>
+                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/madhuri_misal.png" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4>Smt. Madhuri Misal</h4>
+                            <p style="font-size:0.9rem; text-align:center">Hon. Minister of State, Medical Education</p>
+                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/Dhiraj_Kumar.png" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4>Shri. Dhiraj Kumar</h4>
+                            <p style="font-size:0.9rem; text-align:center">Hon.Principal Secretary, Medical education and Drugs Department</p>
+                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/Rajeev_Nivatkar.jpg" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4>Shri Rajeev Nivatkar</h4>
+                            <p style="font-size:0.9rem; text-align:center">Hon. Commissioner, Medical Education and Research</p>
+                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/Ajay_Chandanwale.jpg" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4>Dr. Ajay Chandanwale</h4>
+                            <p style="font-size:0.9rem; text-align:center">Hon. Director, Medical Education and Research</p>
+                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/Shivaji_Sukre.jpg" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4>Dr. Shivaji Sukre</h4>
+                            <p style="font-size:0.9rem; text-align:center">Hon. Jt. Director, Medical Education and Research</p>
+                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/Vivek_Pakhmode.jpg" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4>Dr. Vivek Pakhmode</h4>
+                            <p style="font-size:0.9rem; text-align:center">Hon. Jt. Director [Dental] Medical Education and Research</p>
+                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/dean.jpg" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4>Dr. Maya S. Indurkar</h4>
+                            <p style="font-size:0.9rem; text-align:center">Hon. Dean, Govt Dental College Chhatrapati Sambhajinagar</p>
+                        </div>
                     </div>
-            </div>
+                </div>
             </div>
         </div>
 

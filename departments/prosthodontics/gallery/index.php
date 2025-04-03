@@ -2,7 +2,7 @@
 
 $ROOT = "../../../";
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "departments/periodontology/gallery/";
+$CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/gallery/";
 
 ?>
 
@@ -33,31 +33,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/gallery/";
     <div class="pageBanner">
         <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
-            DEPARTMENT OF PERIODONTOLOGY GALLERY
+            DEPARTMENT OF PROSTHODONTICS
         </h1>
     </div>
     <div class="contentContainer">
         <div>
-            <h2>
-                Gallery
-            </h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Post Graduate Clinic.jpg" alt="Department Image" loading="lazy" />
-                    <p>Undergraduate Clinic</p>
-                </div>
-                <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Special Operatory for LASER & Implantology.jpg" alt="Department Image" loading="lazy" />
-                    <p>Post Graduate Clinic</p>
-                </div>
-                <div class="galleryCard">
-                    <img
-                        src="<?php echo $CURRENTDIRURL ?>assets/Undergraduate Clinic.jpg" alt="Department Image" />
-                    <p>Special Operatory for LASER & Implantology</p>
-                </div>
-                <div class="galleryCard">
-                    <img
-                        src="<?php echo $CURRENTDIRURL ?>assets/periodontology.jpeg" alt="Service Board" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/ProsthodonticsServicesBoard.jpeg" alt="Service Board" loading="lazy" />
                 </div>
             </div>
         </div>

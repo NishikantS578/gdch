@@ -43,6 +43,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/gall
                     
                 </div>
                 <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/paediatric.jpeg" alt="Service Board"  loading="lazy" />
+                </div>
+                <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/img8.jpg" alt="Department Image"  loading="lazy" /> 
                     
                 </div>
