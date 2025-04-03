@@ -71,6 +71,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                     <img
                         src="<?php echo $CURRENTDIRURL ?>assets/image-9.jpeg" alt="Department Image" />
                 </div>
+                <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/orthodontics-and-dentofacial-othropedics.jpg" alt="Service Board" loading="lazy" />
+                </div>
             </div>
         </div>
     </div>
