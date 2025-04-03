@@ -17,6 +17,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/departments/departmentMain.js" defer></script>
+    <script src="<?php echo $ROOTURL ?>public/js/modal.js" defer></script>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css">
     </link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css">
@@ -27,6 +28,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
     </link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css">
     </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
 </head>
 
 <body>
@@ -63,7 +65,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
 
         <div class="largeContentCard">
             <h2>UG PROGRAMME</h2>
-            <p>The department’s undergraduate dental curriculum starts in second year wherein the students are familiarized with the basics of periodontium. After imbibing the correct and strong basics regarding the anatomy and histology which remain the backbone of entire dentistry, the next goal is accomplished in the third year and that is, to develop the student’s knowledge regarding diseases of periodontium. It helps to develop treatment plans that address existing problems as well as disease prevention and health promotion (pathogenesis, intervention and prevention of the disease).</p>
+            <p>The department's undergraduate dental curriculum starts in second year wherein the students are familiarized with the basics of periodontium. After imbibing the correct and strong basics regarding the anatomy and histology which remain the backbone of entire dentistry, the next goal is accomplished in the third year and that is, to develop the student's knowledge regarding diseases of periodontium. It helps to develop treatment plans that address existing problems as well as disease prevention and health promotion (pathogenesis, intervention and prevention of the disease).</p>
             <p>
                 These teaching lessons for the students are sufficed study models, pictorial charts and advanced audio-visual aids. Undergraduate students are encouraged to participate in seminars / tutorials periodically on various topics
             </p>
