@@ -99,7 +99,7 @@ backToTopBtn.addEventListener("mousedown", function () {
 
 document.addEventListener("scroll", function () {
     if (document.documentElement.scrollTop > 200) {
-        backToTopBtn.style["display"] = "block";
+        backToTopBtn.style["display"] = "flex";
     }
     else {
         backToTopBtn.style["display"] = "none";

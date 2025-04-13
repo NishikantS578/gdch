@@ -32,7 +32,7 @@
             <a href="<?php echo $ROOTURL ?>public/assets/17-babi-december-2020.pdf" target="_blank">
                 १७ बाबी
             </a>
-            <a href="#" target="_blank">
+            <a href="services">
                 RTI
             </a>
         </div>

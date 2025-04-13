@@ -145,6 +145,6 @@
         </div>
     </div>
 </div>
-<div class="backToTopBtn">
-    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="Back to top icon">
+<div style="display: flex; align-items: center; justify-content: center;" class="backToTopBtn">
+    <img style="height: 50px; opacity: 80%;" src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="Back to top icon">
 </div>
