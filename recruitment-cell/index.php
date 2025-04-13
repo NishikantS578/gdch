@@ -41,6 +41,11 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
             <div class="certificate-container">
                 <ol class="unOrderedList">
                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक या पदासाठीची अंतरिम निवड यादी.pdf" target="_blank">
+                            चिकित्सालयीन सहाय्यक या पदासाठीची अंतरिम निवड यादी
+                        </a>
+                    </li>
+                    <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/final merit list for the post of clinical assistant April 2015.pdf" target="_blank">
                             Final Merit List For the Post of clinical Assistant April 2025
                         </a>

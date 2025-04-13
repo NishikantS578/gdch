@@ -16,11 +16,13 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/departments/departmentMain.js" defer></script>
+    <script src="<?php echo $ROOTURL ?>public/js/modal.js" defer></script>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
 </head>
 <body>
 
