@@ -33,7 +33,7 @@
                 १७ बाबी
             </a>
             <a href="services">
-                RTI
+                सेवा अधिसूचना
             </a>
         </div>
         <div>
