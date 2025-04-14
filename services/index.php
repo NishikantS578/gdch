@@ -50,7 +50,9 @@ $CURRENTDIRURL = $ROOTURL . "/services";
         <a href="<?php echo $ROOTURL ?>services/oral-and-maxillofacial-pathology-and-oral-microbiology.php">Oral And Maxillofacial Pathology & Oral Microbiology</a>
         <a href="<?php echo $ROOTURL ?>services/periodontology.php">Periodontology</a>
         <a href="<?php echo $ROOTURL ?>services/community-dentistry.php">Community Dentistry</a>
+        <a href="<?php echo $ROOTURL ?>services/conservative-dentistry-and-endodontics.php">Conservative Dentistry And Endodontics</a>
         <a href="<?php echo $ROOTURL ?>services/pediatric-and-preventive-dentistry.php">Pediatric And Preventive Dentistry</a>
+        <a href="<?php echo $ROOTURL ?>services/orthodontics-and-dentofacial-orthopedics.php">Orthodontics And Dentofacial Orthopedics</a>
         <a href="<?php echo $ROOTURL ?>services/prosthodontics.php">Prosthodontics</a>
     </div>
 
