@@ -41,8 +41,13 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
             <div class="certificate-container">
                 <ol class="unOrderedList">
                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक या पदासाठीची अंतरिम निवड यादी(Final).pdf" target="_blank">
+                            चिकित्सालयीन सहाय्यक या पदासाठीची अंतरिम निवड यादी (Final)
+                        </a>
+                    </li>
+                    <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक या पदासाठीची अंतरिम निवड यादी.pdf" target="_blank">
-                            चिकित्सालयीन सहाय्यक या पदासाठीची अंतरिम निवड यादी
+                            चिकित्सालयीन सहाय्यक या पदासाठीची अंतरिम निवड यादी (Provisional)
                         </a>
                     </li>
                     <li>
