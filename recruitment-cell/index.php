@@ -41,6 +41,11 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
             <div class="certificate-container">
                 <ol class="unOrderedList">
                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक यांचे वेळापत्रक -एप्रिल -2025.pdf" target="_blank">
+                            चिकित्सालयीन सहाय्यक यांचे वेळापत्रक -एप्रिल -2025
+                        </a>
+                    </li>
+                    <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक एप्रिल-2025 यांची अंतिम निवड यादी.pdf" target="_blank">
                             चिकित्सालयीन सहाय्यक एप्रिल-2025 यांची अंतिम निवड यादी
                         </a>
