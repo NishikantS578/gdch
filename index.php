@@ -35,6 +35,9 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <div class="marquee">
         <div class="marqueeContent">
+            <a href="<?php echo $ROOTURL ?>public/assets/Event_Img.jpg" target="_blank">
+                ROOTS AND WINGS ( Event 29th June 2025)
+            </a>
             <a href="<?php echo $ROOTURL ?>summit/">
                 DENTAL EDUCATION RESEARCH SUMMIT-II
             </a>
@@ -47,6 +50,7 @@ $CURRENTDIRURL = $ROOTURL . "";
             <a href="<?php echo $ROOTURL ?>public/assets/india-today-ranking.jpeg" target="_blank">
                 India Today Ranking
             </a>
+            
             <a href="<?php echo $ROOTURL ?>public/assets/Provisional Merit list for the post of Clinical Assistant Oct-2024.pdf" target="_blank">
                 Provisional Merit List For The Post of Clinical Assistant Oct-2024
             </a>
@@ -67,6 +71,9 @@ $CURRENTDIRURL = $ROOTURL . "";
             </a>
         </div>
         <div class="marqueeContent">
+            <a href="<?php echo $ROOTURL ?>public/assets/Event_Img.jpg" target="_blank">
+                ROOTS AND WINGS ( Event 29th June 2025)
+            </a>
             <a href="<?php echo $ROOTURL ?>summit/">
                 DENTAL EDUCATION RESEARCH SUMMIT-II
             </a>
