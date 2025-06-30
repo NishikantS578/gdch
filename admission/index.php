@@ -46,6 +46,11 @@ $CURRENTDIRURL = $ROOTURL . "admission/";
             </h2>
             <ul class="unOrderedList">
                 <li>
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/NEET-PG-2025..MDS Admission Process Instruction Manual for the academic year 2025-26_Final.pdf" target="_blank">
+						NEET-PG-2025..MDS Admission Process Instruction Manual for the academic year 2025-26_Final
+                    </a>
+                </li>
+                <li>
                     <a href="<?php echo $CURRENTDIRURL ?>assets/NEET-PG-2024..MDS Admission Process Instruction Manual for the academic year 2024-25.pdf" target="_blank">
                         NEET-PG-2024 MDS Admission Process Instruction Manual for the academic year (2024-25)
                     </a>
