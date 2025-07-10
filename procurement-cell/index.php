@@ -48,7 +48,10 @@ $CURRENTDIRURL = $ROOTURL . "procurement-cell/";
                 <hr>
                 <h3>Financial Year</h3>
                 <ul class="unOrderedList">
-                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/2024-25/canteen final.pdf">Canteen Tender 2024-25</a></li>
+					<h3>2025-26</h3>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/E-AUCTION NOTICE FOR SALE OF UNSERVICEABLEBROKENNO_REPAIRABLE MACHINERIESEQUIPMENTFURNITURE ITEMS.pdf" target="_blank">E-AUCTION NOTICE FOR SALE</a></li>
+					<h3>2024-25</h3>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/2024-25/canteen final.pdf" target="_blank">Canteen Tender 2024-25</a></li>
                 </ul>
             </div> 
         </div>             
