@@ -27,6 +27,11 @@ $CURRENTDIRURL = $ROOTURL . "";
     </link>
     <link rel="stylesheet" href="<?php echo $CURRENTDIRURL ?>css/styles.css">
     </link>
+	<style>
+		@keyframes blink{
+			to { visibility: hidden;}
+		}
+	</style>
 </head>
 
 <body>
@@ -35,6 +40,7 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <div class="marquee">
         <div class="marqueeContent">
+			<a href="<?php echo $ROOTURL ?>/procurement-cell/assets/E-AUCTION NOTICE FOR SALE OF UNSERVICEABLEBROKENNO_REPAIRABLE MACHINERIESEQUIPMENTFURNITURE ITEMS.pdf" target="_blank" style="position: relative;"><span style="position: absolute; top: 0; left: 0; transform: translate(-30%); animation: blink 1s steps(2, start) infinite; text-shadow: none">new</span>E-AUCTION NOTICE FOR SALE OF WRITTEN DOWN ITEMS</a>
             <a href="<?php echo $ROOTURL ?>public/assets/Event_Img.jpg" target="_blank">
                 ROOTS AND WINGS ( Event 29th June 2025)
             </a>
@@ -71,6 +77,7 @@ $CURRENTDIRURL = $ROOTURL . "";
             </a>
         </div>
         <div class="marqueeContent">
+			<a href="<?php echo $ROOTURL ?>/procurement-cell/assets/E-AUCTION NOTICE FOR SALE OF UNSERVICEABLEBROKENNO_REPAIRABLE MACHINERIESEQUIPMENTFURNITURE ITEMS.pdf" target="_blank" style="position: relative;"><span style="position: absolute; top: 0; left: 0; transform: translate(-30%); animation: blink 1s steps(2, start) infinite; text-shadow: none">new</span>E-AUCTION NOTICE FOR SALE OF WRITTEN DOWN ITEMS</a>
             <a href="<?php echo $ROOTURL ?>public/assets/Event_Img.jpg" target="_blank">
                 ROOTS AND WINGS ( Event 29th June 2025)
             </a>
